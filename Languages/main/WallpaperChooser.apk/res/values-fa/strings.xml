@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_instructions">Set wallpaper</string>
+    <string name="wallpaper_accessibility_name">Wallpaper %1$d of %2$d</string>
+    <string name="wallpaper_delete">Delete</string>
+    <string name="pick_wallpaper">تصویرزمینه گالری</string>
+    <string name="crop_wallpaper">Crop wallpaper</string>
+    <string name="wallpaper_button_text">تصویرزمینه گالری</string>
+    <string name="pick_image">Pick image</string>
+    <string name="announce_selection">Selected %1$s</string>
+    <string name="activity_not_found">"App isn't installed."</string>
+</resources>

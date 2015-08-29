@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Videofavorieten</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuleren</string>
+    <string name="delete_dialog_title">Favoriet wissen</string>
+    <string name="delete_dialog_prompt">%1$s uit widget verwijderen?</string>
+    <string name="transcoding_prompt">Video converteren</string>
+    <string name="toast_video_add_cancelled">Video toevoegen mislukt</string>
+    <string name="toast_video_unsupported_resolution">Video-resolutie niet ondersteund.</string>
+    <string name="toast_low_storage">De SD-kaart is vol.</string>
+    <string name="toast_invalid_video">Niet-ondersteunde video-indeling.</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voice_ui_camera_command_title">Речевое управление камерой</string>
+    <string name="voice_ui_phone_command_title">Речевое управление телефоном</string>
+    <string name="voice_ui_alarm_command_title">Речевое управление системой сигнализации</string>
+    <string name="app_name">Голосовая команда</string>
+    <string name="voice_ui_title">Голосовое управление</string>
+    <string name="voice_ui_app_category">фоновом режиме</string>
+    <string name="voice_ui_setting_category">Настройки</string>
+    <string name="voice_ui_language_title">Язык для голосового управления</string>
+    <string name="incoming_call_app_name">Входящий звонок</string>
+    <string name="alarm_app_name">Будильник</string>
+    <string name="camera_app_name">Камера</string>
+    <string name="music_app_name">музыка Китай мобильный</string>
+    <string name="incomming_command_summary_format">Вы можете сказать %1$s или %2$s, чтобы ответить на входящие звонки или отклонить их.</string>
+    <string name="alarm_command_summary_format">Вы можете сказать %1$s или %2$s, чтобы повторить сигнал тревоги или остановить его подачу.</string>
+    <string name="camera_command_summary_format">Вы можете сказать %1$s или %2$s, чтобы произвести запись.</string>
+    <string name="music_command_summary_format">Вы можете сказать %1$s и %2$s для управления воспроизведением музыки.</string>
+    <string name="playback_failed">К сожалению, файл открыть не удалось.</string>
+    <string name="voice_ui_commands">команды</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Print Spooler</string>
+    <string name="advanced_settings_button">Spausdintuvo nustatymai</string>
+    <string name="print_button">Spausdinti</string>
+    <string name="save_button">Išsaugoti</string>
+    <string name="label_destination">Paskirties vieta</string>
+    <string name="label_copies">Kopijos</string>
+    <string name="label_paper_size">Popieriaus dydis</string>
+    <string name="label_color">Spalva</string>
+    <string name="label_orientation">Orientacija</string>
+    <string name="label_pages">Puslapiai (%1$s)</string>
+    <string name="pages_range_example">pvz., 1–5, 8, 11–13</string>
+    <string name="print_preview">Spaudinio peržiūra</string>
+    <string name="install_for_print_preview">Įdiegti PDF peržiūros priemonę</string>
+    <string name="printing_app_crashed">Spausdinimo programa užstrigo</string>
+    <string name="page_count_unknown">Puslapiai</string>
+    <string name="generating_print_job">Generuojama spausd. užduotis</string>
+    <string name="save_as_pdf">Išsaugoti kaip PDF</string>
+    <string name="all_printers">Visi spausdintuvai…</string>
+    <string name="print_dialog">Spausdinimo dialogo langas</string>
+    <string name="search">Ieškoti</string>
+    <string name="all_printers_label">Visi spausdintuvai</string>
+    <string name="add_print_service_label">Pridėti paslaugą</string>
+    <string name="print_search_box_shown_utterance">Paieškos laukelis rodomas</string>
+    <string name="print_search_box_hidden_utterance">Paieškos laukelis paslėptas</string>
+    <string name="print_add_printer">Pridėti spausdintuvą</string>
+    <string name="print_select_printer">Pasirinkti spausdintuvą</string>
+    <string name="print_forget_printer">Pamiršti spausdintuvą</string>
+    <string name="choose_print_service">Pasirinkite spausdinimo paslaugą</string>
+    <string name="print_searching_for_printers">Ieškoma spausdintuvų</string>
+    <string name="print_no_printers">Nerasta spausdintuvų</string>
+    <string name="printing_notification_title_template">Spausdinama: %1$s</string>
+    <string name="cancelling_notification_title_template">Atšaukiama: %1$s</string>
+    <string name="failed_notification_title_template">Spausdintuvo klaida: %1$s</string>
+    <string name="blocked_notification_title_template">Spausdintuvas užblokavo: %1$s</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="restart">Paleisti iš naujo</string>
+    <string name="no_connection_to_printer">Nėra ryšio su spausdintuvu</string>
+    <string name="reason_unknown">nežinoma</string>
+    <string name="printer_unavailable">„%1$s“ – nepasiekiama</string>
+    <string name="print_error_default_message">Nepavyko sukurti spausdinimo užduoties</string>
+</resources>

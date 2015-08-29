@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Усталёўшчык пакетаў</string>
+    <string name="next">Далей</string>
+    <string name="install">Усталяваць</string>
+    <string name="done">Гатова</string>
+    <string name="security_settings_desc">Дазволіць гэтаму прыкладанню выконваць наступныя дзеяннi:</string>
+    <string name="cancel">Адмяніць</string>
+    <string name="unknown">Невядомы</string>
+    <string name="installing">Усталяванне...</string>
+    <string name="install_done">Прыкладанне ўсталявана.</string>
+    <string name="install_confirm_question">Усталяваць гэта прыкладанне? Яно атрымае доступ да:</string>
+    <string name="install_confirm_question_no_perms">Усталяваць гэта прыкладанне? Яно не патрабуе спецыяльнага доступу.</string>
+    <string name="install_confirm_question_update">Усталяваць абнаўленне для гэтага існуючага прыкладання? Існуючыя дадзеныя не будуць страчаны. Абноўленае прыкладанне атрымае доступ да:</string>
+    <string name="install_confirm_question_update_system">Усталяваць абнаўленне для гэтага ўбудаванага прыкладання? Існуючыя дадзеныя не будуць страчаны. Абноўленае прыкладанне атрымае доступ да:</string>
+    <string name="install_confirm_question_update_no_perms">Усталяваць абнаўленне для гэтага прыкладання? Вашы iснуючыя дадзеныя не будуць згублены. Спецыяльны доступ не патрабуецца.</string>
+    <string name="install_confirm_question_update_system_no_perms">Усталяваць абнаўленне для гэтага ўбудаванага прыкладання? Вашы iснуючыя дадзеныя не будуць згублены. Спецыяльны доступ не патрабуецца.</string>
+    <string name="install_failed">Прыкладанне не ўсталявана.</string>
+    <string name="install_failed_invalid_apk">Пакет, магчыма, пашкоджаны.</string>
+    <string name="install_failed_inconsistent_certificates">Існуючы пакет з гэткім жа імем з канфліктуючай сігнатурай ужо ўстаноўлены.</string>
+    <string name="install_failed_older_sdk">Пакет працуе толькі на самых новых версіях Android.</string>
+    <string name="install_failed_cpu_abi_incompatible">Гэта прыкладанне не сумяшчальнае з тэлефонам.</string>
+    <string name="install_failed_file_not_found">Пазначаны пакет быў выдалены перад завяршэннем усталёўкі.</string>
+    <string name="install_failed_verify_failed">Пакет не прайшоў праверку і не можа быць усталяваны.</string>
+    <string name="install_failed_verify_timeout">Мінуў тэрмін праверкі гэтага пакета. Паспрабуйце ўсталяваць яго пазней.</string>
+    <string name="install_failed_msg">На гэтым тэлефоне немагчыма ўсталяваць прыкладанне %1$s.</string>
+    <string name="launch">Адкрыць</string>
+    <string name="unknown_apps_dlg_title">Усталяванне заблакавана</string>
+    <string name="unknown_apps_dlg_text">У мэтах бяспекі ваш тэлефон наладжаны на блакiроўку ўсталёўкі прыкладанняў, атрыманых з невядомых крыніц.</string>
+    <string name="ok">ОК</string>
+    <string name="settings">Налады</string>
+    <string name="allow_source_dlg_title">Новая крыніца для прыкладанняў</string>
+    <string name="allow_source_dlg_text">"Прыкладанне %1$s жадае ўсталяваць іншыя прыкладанні.
+
+Дазволіць гэта зараз і ў будучыні?"</string>
+    <string name="manage_applications">Кіраванне прыкладаннямі</string>
+    <string name="dlg_app_replacement_title">Замянiць прыкладанне?</string>
+    <string name="dlg_app_replacement_statement">"Прыкладанне, якое вы ўсталёўваеце, заменіць іншае прыкладанне. 
+
+Усе вашы папярэднія дадзеныя карыстальніка будуць захаваны."</string>
+    <string name="dlg_sys_app_replacement_statement">"Гэта сістэмнае прыкладанне.
+
+Усе вашы папярэднія дадзеныя карыстальніка будуць захаваны."</string>
+    <string name="out_of_space_dlg_title">Не хапае месца</string>
+    <string name="out_of_space_dlg_text">Немагчыма ўсталяваць прыкладанне %1$s. Вызваліце месца і паўтарыце спробу.</string>
+    <string name="dlg_ok">ОК</string>
+    <string name="app_not_found_dlg_title">Прыкладанне не знойдзена</string>
+    <string name="app_not_found_dlg_text">Прыкладанне не знойдзена ў спісе ўсталяваных прыкладанняў.</string>
+    <string name="uninstall_application_title">Выдалiць прыкладанне</string>
+    <string name="uninstall_update_title">Выдаліць абнаўленні</string>
+    <string name="uninstall_activity_text">"%1$s з'яўляецца часткай наступнага прыкладання:"</string>
+    <string name="uninstall_application_text">Выдаліць гэта прыкладанне?</string>
+    <string name="uninstall_application_text_all_users">Выдалiць гэта прыкладанне для <b>ўсiх</b> карыстальнirfў? Прыкладанне i яго дадзеныя будуць выдалены для <b>ўсiх</b> карыстальнiкаў прылады.</string>
+    <string name="uninstall_update_text">Замяніць гэта прыкладанне на заводскую версію?</string>
+    <string name="uninstalling">Выдаленне...</string>
+    <string name="uninstall_done">Выдаленне завершана</string>
+    <string name="uninstall_failed">Няўдалае выдаленне.</string>
+    <string name="uninstall_failed_device_policy_manager">"Немагчыма выдаліць, паколькі гэты пакет з'яўляецца актыўным адміністратарам прылады."</string>
+    <string name="manage_device_administrators">Кіраваць адміністратарамі прылады</string>
+    <string name="uninstall_failed_msg">Немагчыма выдалiць прыкладанне %1$s.</string>
+    <string name="Parse_error_dlg_title">Памылка сінтаксічнага аналізу</string>
+    <string name="Parse_error_dlg_text">Памылка аналiзу пакета.</string>
+    <string name="newPerms">Новыя</string>
+    <string name="allPerms">Усе</string>
+    <string name="privacyPerms">Прыватнасць</string>
+    <string name="devicePerms">Доступ да прылады</string>
+    <string name="no_new_perms">Гэтае абнаўленне не патрабуе ніякіх новых дазволаў.</string>
+    <string name="grant_confirm_question">Даць наступны дазвол? Ён будзе атрымліваць доступ да:</string>
+</resources>

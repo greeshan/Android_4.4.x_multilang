@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Знойдзеныя: %d</item>
+        <item quantity="one">знойдзены 1</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Кантактаў з нумарамі тэлефонаў: %d</item>
+        <item quantity="one">1 кантакт з нумарам тэлефона</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Кантактаў: %d</item>
+        <item quantity="one">1 кантакт</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Знойдзеныя: %d</item>
+        <item quantity="one">знойдзены 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">"аб'яднаныя з розных крыніц (%0$d)"</item>
+        <item quantity="one">"не аб'яднаны"</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Груп: %0$d</item>
+        <item quantity="one">1 група</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d чал. з %2$s</item>
+        <item quantity="one">%1$d чал. з %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">Людзей: %1$d</item>
+        <item quantity="one">%1$d чал.</item>
+    </plurals>
+</resources>

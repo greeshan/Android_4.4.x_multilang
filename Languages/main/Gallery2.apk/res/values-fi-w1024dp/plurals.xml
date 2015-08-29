@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d kohdetta valittu</item>
+        <item quantity="zero">%1$d kohde valittu</item>
+        <item quantity="one">%1$d kohde valittu</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d albumia valittu</item>
+        <item quantity="zero">%1$d albumi valittu</item>
+        <item quantity="one">%1$d albumi valittu</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d ryhmää valittu</item>
+        <item quantity="zero">%1$d ryhmä valittu</item>
+        <item quantity="one">%1$d ryhmä valittu</item>
+    </plurals>
+</resources>

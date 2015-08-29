@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">အခွံ</string>
+    <string name="bugreport_finished_title">ချွတ်ယွင်းမှုအစီရင်ခံစာ ရယူပြီး</string>
+    <string name="bugreport_finished_text">သင့်ချွတ်ယွင်းချက်အစီရင်ခံစာကို ဝေမျှရန် တို့ထိပါ</string>
+    <string name="bugreport_confirm_repeat">ဤမက်ဆေ့ခ်ျကို နောက်တစ်ကြိမ်တွင် ပြပါ</string>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">I-Face Unlock</string>
+    <string name="receiver_app_name">I-Face Unlock Broadcast Receiver</string>
+    <string name="setup_app_name">Setha i-Face Unlock</string>
+    <string name="enrollment_continue_label">Qhubeka</string>
+    <string name="enrollment_done_label">Qedile</string>
+    <string name="enrollment_initializing">Iyaqalisa.</string>
+    <string name="enrollment_start_message">Beka ubuso bakho lapha.</string>
+    <string name="error_no_face">Khombisa ubuso bakho</string>
+    <string name="enrollment_missing_landmarks">Khombisa amehlo akho, ikhala kanye nomlomo.</string>
+    <string name="enrollment_missing_landmarks_status">Angikwazi ukubona izimpawu zakho</string>
+    <string name="enrollment_off_center_status">Iyehluleka ukuthola ingxenye yobuso bakho</string>
+    <string name="enrollment_done">Ubuso buqoshiwe.</string>
+    <string name="tutorial_app_name">Mayelana ne-Face Unlock</string>
+    <string name="tutorial_header">Bheka ifoni yakho ukuze uyivule.</string>
+    <string name="tutorial_info_text">"Gcina lezi zinto ekhanda:
+
+ "<li><ul>"I-Face Unlock akuphephile kahle kunephethini, IPHINI, noma iphasiwedi.
+
+ "<li>Omunye umuntu ocishe afane nawe angahle avule iselula yakho.</li>"
+
+ "<li>Imininingwane yokuthola ubuso bakho kugcinwa kuyimfihlo efonini yakho.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Ihlele!</string>
+    <string name="intro_header">Kwemiphumela emihle:</string>
+    <string name="intro_info_text">" "<li><ul>"Thola indawo esendlini—engakhanyi kakhulu noma emnyama kakhulu.
+
+ "<li>Bamba ucingo elevelini yeso.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Qhubeka</string>
+    <string name="endscreen_header">Usuqede konke!</string>
+    <string name="endscreen_info_text">"Ukuze uvule ifoni yakho, vele uyibuke.
+
+Ithiphu: Yenza kangcono ukufana kobuso ngokuthatha ubuso bakho izithombe ngezimo ezahlukahlukene."</string>
+    <string name="endscreen_continue_label">KULUNGILE</string>
+    <string name="addtosetup_app_name">Enza kangcono ukufana kobuso</string>
+    <string name="addtosetup_header">Thola ubuso bakho buthwebulwe ezimeni ezahlukahlukene.</string>
+    <string name="addtosetup_info_text">"Izibonelo:
+
+ "<li><ul>"Ezibanini ezahlukahlukene
+
+ "<li>Ngezingilazi noma ngaphandle kwezingilazi ezichaziwe</li>"
+
+ "<li>Kunesilevu noma kusheviwe</li>"
+
+ "</ul></li>"
+Bamba ucingo elevelini yocingo."</string>
+    <string name="addtosetup_continue_label">Qhubeka</string>
+    <string name="service_app_name">Isevisi ye-Face Unlock</string>
+    <string name="service_face_not_found">Ayikwazanga ukuthola ubuso</string>
+    <string name="service_not_a_match">Ngiyaxolisa, asingakuboni</string>
+    <string name="service_liveliness_start">Cwayiza manje</string>
+    <string name="service_liveliness_timeout">Ayizange ikuthole ucwayiza kwakho</string>
+    <string name="service_low_ligthing">Ukukhanya kuncane</string>
+    <string name="shared_initialize_error">I-Face Unlock yehlulekile</string>
+    <string name="shared_camera_error">Ihluleke ukuvula ikhamera</string>
+    <string name="shared_read_gallery_error">Sicela uphinde ukusetha</string>
+    <string name="shared_cancel_label">Khansela</string>
+</resources>

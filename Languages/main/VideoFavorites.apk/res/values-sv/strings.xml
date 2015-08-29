@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Videofavoriter</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Avbryt</string>
+    <string name="delete_dialog_title">Ta bort favoriter</string>
+    <string name="delete_dialog_prompt">Ta bort %1$s från widget?</string>
+    <string name="transcoding_prompt">Konverterar video</string>
+    <string name="toast_video_add_cancelled">Kunde inte lägga till video</string>
+    <string name="toast_video_unsupported_resolution">Videoupplösning stöds inte</string>
+    <string name="toast_low_storage">Ditt SD-kort är fullt</string>
+    <string name="toast_invalid_video">Videoformatet stöds inte.</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voice_ui_camera_command_title">Гласовна контрола за камеру</string>
+    <string name="voice_ui_phone_command_title">Гласовна контрола за телефон</string>
+    <string name="voice_ui_alarm_command_title">Гласовна контрола за аларм</string>
+    <string name="app_name">Гласовна команда</string>
+    <string name="voice_ui_title">Гласовна контрола</string>
+    <string name="voice_ui_app_category">За апликације</string>
+    <string name="voice_ui_setting_category">Подешавања A-GPS</string>
+    <string name="voice_ui_language_title">Језик за гласовну контролу</string>
+    <string name="incoming_call_app_name">Телефон</string>
+    <string name="alarm_app_name">Аларми</string>
+    <string name="camera_app_name">Доступно за пребацивање камера ако је укључено</string>
+    <string name="music_app_name">Црта звучни талас било које песме коју тренутно слушате.</string>
+    <string name="incomming_command_summary_format">Можете изговорити %1$s или %2$s за преузимање или одбијање долазних позива.</string>
+    <string name="alarm_command_summary_format">Можете изговорити %1$s или %2$s за контролу аларма.</string>
+    <string name="camera_command_summary_format">Можете изговорити %1$s или %2$s за снимање.</string>
+    <string name="music_command_summary_format">Можете изговорити %1$s и %2$s за контролу репродукције музике.</string>
+    <string name="playback_failed">Нажалост, отварање датотеке није успело.</string>
+    <string name="voice_ui_commands">КОМАНДЕ</string>
+</resources>

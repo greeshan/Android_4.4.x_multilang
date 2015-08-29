@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">Эфекты недаступныя.</string>
+    <string name="main_toggle_effects_title">Гукавыя эфекты</string>
+    <string name="eq_dialog_title">Эквалайзер</string>
+    <string name="headset_plug">Каб праслухаць гэтыя эфекты, падключыце навушнікі.</string>
+    <string name="bass_boost_strength">Bass Boost</string>
+    <string name="virtualizer_strength">"Аб'ёмны гук"</string>
+    <string name="pr_title">Штучнае рэха:</string>
+    <string name="pr_summary">Дадатковыя эфекты штучнага рэха ў пакоі</string>
+    <string name="pr_dialog_title">Папярэдняе ўсталяванне штучнага рэха</string>
+    <string name="setup">Наладзiць</string>
+    <string name="ci_extreme">Паскаральнiк FX</string>
+    <string name="user">Карыстальнік</string>
+    <string name="picker_title">Панэль кірав. музыч. эфектамі</string>
+</resources>

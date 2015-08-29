@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_interface_general_icons_text_font_family_entries">
+        <item>Regolare</item>
+        <item>Luminoso</item>
+        <item>Condensato</item>
+    </string-array>
+    <string-array name="transition_effect_entries">
+        <item>Nessuno</item>
+        <item>Riduci</item>
+        <item>Ingrandisci</item>
+        <item>Ruota su</item>
+        <item>Ruota giù</item>
+        <item>Cubo interno</item>
+        <item>Cubo esterno</item>
+        <item>Pila</item>
+        <item>Fisarmonica</item>
+        <item>Specchia</item>
+        <item>Cilindro interno</item>
+        <item>Cilindro esterno</item>
+        <item>Carosello</item>
+        <item>Panoramica</item>
+    </string-array>
+</resources>

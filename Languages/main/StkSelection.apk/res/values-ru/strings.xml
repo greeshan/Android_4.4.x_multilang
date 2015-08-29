@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM Toolkit</string>
+    <string name="activity_not_found">Приложение не установлено на вашем телефоне.</string>
+    <string name="simlock_toolkit">Инструменты SIM-карты</string>
+    <string name="no_sim_card_inserted">Вставьте SIM-карту для запуска пакета SIM Toolkit.</string>
+    <string name="airplane_mode_on">Невозможно запустить пакет SIM Toolkit, так как включен самолетный режим.</string>
+    <string name="lable_sim_not_ready">Пакет SIM Toolkit не готов или не поддерживается</string>
+</resources>

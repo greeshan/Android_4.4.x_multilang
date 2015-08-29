@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mga Paboritong Video</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="delete_dialog_title">Tanggalin ang paborito</string>
+    <string name="delete_dialog_prompt">Tanggalin ang %1$s mula sa widget?</string>
+    <string name="transcoding_prompt">Kino-convert ang video</string>
+    <string name="toast_video_add_cancelled">Nabigong idagdag ang video</string>
+    <string name="toast_video_unsupported_resolution">Hindi suportado ang resolusyon ng video.</string>
+    <string name="toast_low_storage">Puno ang iyong SD card.</string>
+    <string name="toast_invalid_video">Hindi suportado ang format ng video.</string>
+</resources>

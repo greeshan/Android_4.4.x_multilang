@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Scanning…</item>
+        <item>Connecting…</item>
+        <item>Authenticating…</item>
+        <item>Obtaining IP address…</item>
+        <item>接続済み</item>
+        <item>停止中</item>
+        <item>Disconnecting…</item>
+        <item>未接続</item>
+        <item>成功していない</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scanning…</item>
+        <item>Connecting to %1$s…</item>
+        <item>Authenticating with %1$s…</item>
+        <item>Obtaining IP address from %1$s…</item>
+        <item>Connected to %1$s</item>
+        <item>停止中</item>
+        <item>Disconnecting from %1$s…</item>
+        <item>未接続</item>
+        <item>成功していない</item>
+    </string-array>
+</resources>

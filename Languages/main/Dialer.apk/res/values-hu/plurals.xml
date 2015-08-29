@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">%s perce nincs adatkapcsolat</item>
+        <item quantity="one">%s perce nincs adatkapcsolat</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">A telefon %s percig Sürgősségi visszahívás módban lesz. Ebben az üzemmódban nem használhatók az adatkapcsolatot használó alkalmazások. Szeretne most kilépni?</item>
+        <item quantity="one">A telefon %s percig Sürgősségi visszahívás módban lesz. Ebben az üzemmódban nem használhatók az adatkapcsolatot használó alkalmazások. Szeretne most kilépni?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">A kiválasztott művelet nem áll rendelkezésre Sürgősségi visszahívás módban. A telefon %s percig lesz ebben a módban. Szeretne most kilépni?</item>
+        <item quantity="one">A kiválasztott művelet nem áll rendelkezésre Sürgősségi visszahívás módban. A telefon %s percig lesz ebben a módban. Szeretne most kilépni?</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d hívásnapló</item>
+        <item quantity="one">1 hívásnapló</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d találat</item>
+        <item quantity="one">1 találat</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d hangüzenet</item>
+        <item quantity="one">Hangposta</item>
+    </plurals>
+</resources>

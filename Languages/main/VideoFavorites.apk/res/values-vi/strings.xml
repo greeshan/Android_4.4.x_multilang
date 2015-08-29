@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mục video yêu thích</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Hủy</string>
+    <string name="delete_dialog_title">Xóa mục yêu thích</string>
+    <string name="delete_dialog_prompt">Xóa %1$s khỏi widget?</string>
+    <string name="transcoding_prompt">Đang chuyển đổi video</string>
+    <string name="toast_video_add_cancelled">Không thể thêm video</string>
+    <string name="toast_video_unsupported_resolution">Độ phân giải video không hỗ trợ.</string>
+    <string name="toast_low_storage">Thẻ SD của bạn đã đầy.</string>
+    <string name="toast_invalid_video">Định dạng video không hỗ trợ.</string>
+</resources>

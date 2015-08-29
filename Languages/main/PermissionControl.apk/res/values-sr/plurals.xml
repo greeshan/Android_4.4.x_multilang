@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autoboot_app_desc_allow">
+        <item quantity="other">%1$d апликације дозвољене,</item>
+        <item quantity="one">%1$d апликација дозвољена,</item>
+    </plurals>
+    <plurals name="autoboot_app_desc_deny">
+        <item quantity="other">%1$d апликације одбијене.</item>
+        <item quantity="one">%1$d апликација одбијена.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timer_notifications">
+        <item>Застаецца менш хвiлiны.</item>
+        <item>Застаецца %1$s</item>
+        <item>Застаецца %2$s</item>
+        <item>Застаецца %1$s %2$s</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Сiгнал усталяваны менш чым на 1 хвіліну з гэтага моманту.</item>
+        <item>Сігнал усталяваны на %1$s д. з гэтага моманту.</item>
+        <item>Сігнал усталяваны на %2$s гадз. з гэтага моманту.</item>
+        <item>Сiгнал усталяваны на %1$s д. i %2$s гадз. з гэтага моманту.</item>
+        <item>Сігнал усталяваны на %3$s хв. з гэтага моманту.</item>
+        <item>Сігнал усталяваны на %1$s д. %3$s хв. з гэтага моманту.</item>
+        <item>Сігнал усталяваны на %2$s гадз. і %3$s хв. з гэтага моманту.</item>
+        <item>Сігнал усталяваны на %1$s д., %2$s гадз. і %3$s хв. з гэтага моманту.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>5 хвілін</item>
+        <item>10 хвілін</item>
+        <item>15 хвілін</item>
+        <item>20 хвілін</item>
+        <item>25 хвілін</item>
+        <item>30 хвілін</item>
+        <item>Ніколі</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Адкласці</item>
+        <item>Скасаваць</item>
+        <item>Нічога не рабіць</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>Ты хутчэй маланкi.</item>
+        <item>Атрымлівайце асалоду ад вынiкаў сваёй працы.</item>
+        <item>Андроiды хуткiя, але не настолькi!</item>
+        <item>Уф...</item>
+        <item>Разоў: L33t.</item>
+        <item>Хутка ты.</item>
+        <item>Паляцелi з касмiчнай хуткасцю!</item>
+        <item>Проста скокнiце ўлева.</item>
+        <item>Ёсць да чаго iмкнуцца.</item>
+        <item>Фатонная хуткасць.</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Аналагавы</item>
+        <item>Лічбавы</item>
+    </string-array>
+</resources>

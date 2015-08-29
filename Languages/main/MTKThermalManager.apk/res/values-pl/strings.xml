@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MTK Thermal Manager</string>
+    <string name="coolers">Ochładzacze</string>
+    <string name="thermal_sensors">Sensory Temperatury</string>
+    <string name="thermal_protection">Ochrona Temperatury</string>
+    <string name="thermal_policy_file_colon">Temperatura – Plik Zasad Postępowania:</string>
+    <string name="apply_new_thermal_policy">Zapisz Nową Zasadę Postępowania</string>
+    <string name="tz_device_info">TZ Informacje Urządzenia</string>
+    <string name="thermal_logger">Rejestr Temperatury</string>
+    <string name="alert_dialog_two_buttons_title">Ostrzeżenie o temperaturze!</string>
+    <string name="alert_dialog_two_buttons_message">Telefon będzie wymagał wkrótce schłodzenia!</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Anuluj</string>
+</resources>

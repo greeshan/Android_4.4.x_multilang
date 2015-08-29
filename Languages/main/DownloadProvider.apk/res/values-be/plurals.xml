@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="other">Спампоўваюцца файлы: %d</item>
+        <item quantity="one">Спампоўваецца 1 файл</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">Файлы чакаюць: %d</item>
+        <item quantity="one">1 файл чакае</item>
+    </plurals>
+</resources>

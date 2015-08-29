@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Preferinţe video</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Anulaţi</string>
+    <string name="delete_dialog_title">Ştergere preferinţă</string>
+    <string name="delete_dialog_prompt">Ştergeţi pe %1$s din widget?</string>
+    <string name="transcoding_prompt">Se face conversia videoclipului</string>
+    <string name="toast_video_add_cancelled">Adăugarea videoclipului nu a reuşit</string>
+    <string name="toast_video_unsupported_resolution">Rezoluţia video nu este acceptată.</string>
+    <string name="toast_low_storage">Cardul SD este plin.</string>
+    <string name="toast_invalid_video">Format video neacceptat.</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Print Spooler</string>
+    <string name="advanced_settings_button">Printerindstillinger</string>
+    <string name="print_button">Udskriv</string>
+    <string name="save_button">Gem</string>
+    <string name="label_destination">Destination</string>
+    <string name="label_copies">Kopier</string>
+    <string name="label_paper_size">Papirstørrelse</string>
+    <string name="label_color">Farve</string>
+    <string name="label_orientation">Retning</string>
+    <string name="label_pages">Sider (%1$s)</string>
+    <string name="pages_range_example">f.eks. 1-5,8,11-13</string>
+    <string name="print_preview">Vis udskrift</string>
+    <string name="install_for_print_preview">Installer et PDF-visningsprog. for at se eksempel</string>
+    <string name="printing_app_crashed">Udskrivningsapp gik ned</string>
+    <string name="page_count_unknown">Sider</string>
+    <string name="generating_print_job">Udskriften generes</string>
+    <string name="save_as_pdf">Gem som PDF</string>
+    <string name="all_printers">Alle printere...</string>
+    <string name="print_dialog">Udskriftsdialog</string>
+    <string name="search">Søg</string>
+    <string name="all_printers_label">Alle printere</string>
+    <string name="add_print_service_label">Tilføj tjeneste</string>
+    <string name="print_search_box_shown_utterance">Søgefeltet vises</string>
+    <string name="print_search_box_hidden_utterance">Søgefeltet er skjult</string>
+    <string name="print_add_printer">Tilføj printer</string>
+    <string name="print_select_printer">Vælg printer</string>
+    <string name="print_forget_printer">Glem printer</string>
+    <string name="choose_print_service">Vælg udskriftstjeneste</string>
+    <string name="print_searching_for_printers">Søger efter printere</string>
+    <string name="print_no_printers">Der blev ikke fundet nogen printere</string>
+    <string name="printing_notification_title_template">%1$s udskrives</string>
+    <string name="cancelling_notification_title_template">%1$s annulleres</string>
+    <string name="failed_notification_title_template">Udskriften %1$s mislykkedes</string>
+    <string name="blocked_notification_title_template">Printeren har blokeret %1$s</string>
+    <string name="cancel">Annuller</string>
+    <string name="restart">Genstart</string>
+    <string name="no_connection_to_printer">Ingen forbindelse til printer</string>
+    <string name="reason_unknown">ukendt</string>
+    <string name="printer_unavailable">%1$s – ikke tilgængelig</string>
+    <string name="print_error_default_message">Der kunne ikke genereres et udskriftsjob</string>
+</resources>

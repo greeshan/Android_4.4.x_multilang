@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Выбраны элементы %1$d</item>
+        <item quantity="zero">Выбран элемент %1$d</item>
+        <item quantity="one">Выбран элемент %1$d</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">Выбраны альбомы %1$d</item>
+        <item quantity="zero">Выбран альбом %1$d</item>
+        <item quantity="one">Выбран альбом %1$d</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">Выбраны группы %1$d</item>
+        <item quantity="zero">Выбрана группа %1$d</item>
+        <item quantity="one">Выбрана группа %1$d</item>
+    </plurals>
+</resources>

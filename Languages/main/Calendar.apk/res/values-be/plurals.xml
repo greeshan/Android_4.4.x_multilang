@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d хвілін</item>
+        <item quantity="one">1 хвіліна</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">Хвілін %d</item>
+        <item quantity="one">1 хв.</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d гадзін</item>
+        <item quantity="one">1 гадзіна</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">Дзён: %d</item>
+        <item quantity="one">1 дзень</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">ТЫДЗЕНЬ %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; для %d р.</item>
+        <item quantity="one">; на адзін раз</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Кожн. %d д.</item>
+        <item quantity="one">Штодзённа</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Кожныя %1$d тыд. па %2$s</item>
+        <item quantity="one">Кожны тыдзень па %2$s</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">Мерапрыемствы: %d</item>
+        <item quantity="one">1 мерапрыемства</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">Яшчэ мерапрыемствы: +%d</item>
+        <item quantity="one">+1 мерапрыемства</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Кожны %d дзень</item>
+        <item quantity="one">Кожны %d дзень</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Кожныя %d тыдняў</item>
+        <item quantity="one">Кожны %d тыдз.</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Кожныя %d мес.</item>
+        <item quantity="one">Кожны %d месяц</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Кожныя %d гадоў</item>
+        <item quantity="one">Кожны %d год</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Для мерапрыемства %d</item>
+        <item quantity="one">Для мерапрыемства %d</item>
+    </plurals>
+</resources>

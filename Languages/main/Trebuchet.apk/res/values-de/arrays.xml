@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_interface_general_icons_text_font_family_entries">
+        <item>Normal</item>
+        <item>Dünn</item>
+        <item>Schmal</item>
+    </string-array>
+    <string-array name="transition_effect_entries">
+        <item>Keine</item>
+        <item>Hineinzoomen</item>
+        <item>Herauszoomen</item>
+        <item>Rotieren oben</item>
+        <item>Rotieren unten</item>
+        <item>Würfel innen</item>
+        <item>Würfel außen</item>
+        <item>Stapeln</item>
+        <item>Akkordeon</item>
+        <item>Blättern</item>
+        <item>Zylinder innen</item>
+        <item>Zylinder außen</item>
+        <item>Karussell</item>
+        <item>Übersicht</item>
+    </string-array>
+</resources>

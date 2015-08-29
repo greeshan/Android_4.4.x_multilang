@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">วิดีโอรายการโปรด</string>
+    <string name="ok">ตกลง</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="delete_dialog_title">ลบรายการโปรด</string>
+    <string name="delete_dialog_prompt">ลบ %1$s ออกจากวิดเจ็ตหรือไม่</string>
+    <string name="transcoding_prompt">กำลังแปลงวิดีโอ</string>
+    <string name="toast_video_add_cancelled">เพิ่มวิดีโอไม่สำเร็จ</string>
+    <string name="toast_video_unsupported_resolution">ไม่สนับสนุนความละเอียดของวิดีโอ</string>
+    <string name="toast_low_storage">การ์ด SD ของคุณเต็ม</string>
+    <string name="toast_invalid_video">รูปแบบวิดีโอที่ไม่สนับสนุน</string>
+</resources>

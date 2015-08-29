@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">เลือก %1$d รายการแล้ว</item>
+        <item quantity="zero">เลือก %1$d รายการแล้ว</item>
+        <item quantity="one">เลือก %1$d รายการแล้ว</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">เลือก %1$d อัลบั้มแล้ว</item>
+        <item quantity="zero">เลือก %1$d อัลบั้มแล้ว</item>
+        <item quantity="one">เลือก %1$d อัลบั้มแล้ว</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">เลือก %1$d กลุ่มแล้ว</item>
+        <item quantity="zero">เลือก %1$d กลุ่มแล้ว</item>
+        <item quantity="one">เลือก %1$d กลุ่มแล้ว</item>
+    </plurals>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Print Spooler</string>
+    <string name="advanced_settings_button">Impostazioni stampante</string>
+    <string name="print_button">Stampa</string>
+    <string name="save_button">Salva</string>
+    <string name="label_destination">Destinazione</string>
+    <string name="label_copies">Copie</string>
+    <string name="label_paper_size">Formato carta</string>
+    <string name="label_color">A colori</string>
+    <string name="label_orientation">Orientamento</string>
+    <string name="label_pages">Pagine (%1$s)</string>
+    <string name="pages_range_example">Es.: 1-5, 8, 11-13</string>
+    <string name="print_preview">Anteprima di stampa</string>
+    <string name="install_for_print_preview">Installa visualizzatore PDF per anteprima</string>
+    <string name="printing_app_crashed">"Arresto anomalo dell'app di stampa"</string>
+    <string name="page_count_unknown">Pagine</string>
+    <string name="generating_print_job">Generazione processo di stampa</string>
+    <string name="save_as_pdf">Salva in PDF</string>
+    <string name="all_printers">Tutte le stampanti…</string>
+    <string name="print_dialog">Finestra di dialogo Stampa</string>
+    <string name="search">Cerca</string>
+    <string name="all_printers_label">Tutte le stampanti</string>
+    <string name="add_print_service_label">Aggiungi servizio</string>
+    <string name="print_search_box_shown_utterance">Casella di ricerca visualizzata</string>
+    <string name="print_search_box_hidden_utterance">Casella di ricerca nascosta</string>
+    <string name="print_add_printer">Aggiungi stampante</string>
+    <string name="print_select_printer">Seleziona stampante</string>
+    <string name="print_forget_printer">Elimina stampante</string>
+    <string name="choose_print_service">Scegli servizio di stampa</string>
+    <string name="print_searching_for_printers">Ricerca di stampanti</string>
+    <string name="print_no_printers">Nessuna stampante trovata</string>
+    <string name="printing_notification_title_template">Stampa di %1$s</string>
+    <string name="cancelling_notification_title_template">Annullamento di %1$s</string>
+    <string name="failed_notification_title_template">Errore della stampante: %1$s</string>
+    <string name="blocked_notification_title_template">La stampante ha bloccato %1$s</string>
+    <string name="cancel">Annulla</string>
+    <string name="restart">Riavvia</string>
+    <string name="no_connection_to_printer">Nessun collegamento alla stampante</string>
+    <string name="reason_unknown">sconosciuto</string>
+    <string name="printer_unavailable">%1$s - non disponibile</string>
+    <string name="print_error_default_message">Impossibile generare processo di stampa</string>
+</resources>

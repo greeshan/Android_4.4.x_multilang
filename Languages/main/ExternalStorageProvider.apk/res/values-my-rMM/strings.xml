@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="root_internal_storage">အတွင်းပိုင်းသိမ်းဆည်းမှု</string>
+    <string name="root_documents">စာရွက်စာတမ်းများ</string>
+</resources>

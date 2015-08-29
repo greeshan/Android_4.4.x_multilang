@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>2G/3G (স্বয়ংক্রিয় মোড)</item>
+        <item>কেবল 3G</item>
+        <item>কেবল 2G</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices">
+        <item>2G/3G (স্বয়ংক্রিয় মোড)</item>
+        <item>কেবল 3G</item>
+    </string-array>
+    <string-array name="lte_prefer_network_mode_choices">
+        <item>4G/3G/2G (স্বয়ংক্রিয় মোড)</item>
+        <item>3G/2G (স্বয়ংক্রিয় মোড)</item>
+        <item>কেবল 3G</item>
+        <item>কেবল 2G</item>
+    </string-array>
+    <string-array name="language_list_values">
+        <item>সব ভাষা</item>
+        <item>জার্মান</item>
+        <item>ইংরেজি</item>
+        <item>ইতালিয়ান</item>
+        <item>ফরাসি</item>
+        <item>স্প্যানিশ</item>
+        <item>পর্তুগীজ</item>
+        <item>সুইডিশ</item>
+        <item>ডেনিস</item>
+        <item>পর্তুগিজ</item>
+        <item>ফিনিস</item>
+        <item>নরওয়েজিয়ান</item>
+        <item>গ্রিক</item>
+        <item>তুর্কি</item>
+        <item>হাঙ্গেরিয়ান</item>
+        <item>পলিশ</item>
+        <item>অন্যান্য</item>
+        <item>চেক</item>
+        <item>হিব্রু</item>
+        <item>আরবি</item>
+        <item>রাশিয়ান</item>
+        <item>আইসল্যান্ডিক</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>DEFAULT</item>
+        <item>HIDE</item>
+        <item>SHOW</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>নেটওয়ার্ক ডিফল্ট</item>
+        <item>নম্বর লুকান</item>
+        <item>নম্বর দেখান</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>বৈশ্বিক</item>
+        <item>কেবল EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA / EvDo স্বয়ংক্রিয়</item>
+        <item>GSM / WCDMA স্বয়ংক্রিয়</item>
+        <item>কেবল WCDMA</item>
+        <item>কেবল জিএসএম</item>
+        <item>পছন্দসই GSM / WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values">
+        <item>৭</item>
+        <item>৬</item>
+        <item>৫</item>
+        <item>৪</item>
+        <item>৩</item>
+        <item>২</item>
+        <item>১</item>
+        <item>০</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>ইংরেজি</item>
+        <item>ফরাসি</item>
+        <item>স্প্যানিশ</item>
+        <item>জাপানি</item>
+        <item>কোরিয়ান</item>
+        <item>চীনা</item>
+        <item>হিব্রু</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>১</item>
+        <item>২</item>
+        <item>৩</item>
+        <item>৪</item>
+        <item>৫</item>
+        <item>৬</item>
+        <item>৭</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>কেবল হোম</item>
+        <item>স্বয়ংক্রিয়</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>০</item>
+        <item>১</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>টিটিওয়াই বন্ধ</item>
+        <item>টিটিওয়াই ডিভাইস</item>
+        <item>টিটিওয়াই এইচসিও</item>
+        <item>টিটিওয়াই ভিসিও</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>সাধারণ</item>
+        <item>দীর্ঘ</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_lte">
+        <item>বৈশ্বিক</item>
+        <item>সিডিএমএ</item>
+    </string-array>
+</resources>

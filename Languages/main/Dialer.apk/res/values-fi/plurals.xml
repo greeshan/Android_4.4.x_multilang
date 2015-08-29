@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Ei verkkoyhteyttä %s minuuttiin</item>
+        <item quantity="one">Ei verkkoyhteyttä %s minuuttiin</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Puhelin on hätäpuhelujen takaisinsoittotilassa %s minuutin ajan. Tässä tilassa datayhteyttä hyödyntäviä sovelluksia ei voi käyttää. Haluatko lopettaa nyt?</item>
+        <item quantity="one">Puhelin on hätäpuhelujen takaisinsoittotilassa %s minuutin ajan. Tässä tilassa datayhteyttä hyödyntäviä sovelluksia ei voi käyttää. Haluatko lopettaa nyt?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Valittu toiminto ei ole käytettävissä hätäpuhelujen takaisinsoittotilassa. Puhelu pysyy tässä tilassa %s minuutin ajan. Haluatko poistua nyt?</item>
+        <item quantity="one">Valittu toiminto ei ole käytettävissä hätäpuhelujen takaisinsoittotilassa. Puhelu pysyy tässä tilassa %s minuutin ajan. Haluatko poistua nyt?</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d puhelulokia</item>
+        <item quantity="one">1 puheluloki</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Löytyi %d</item>
+        <item quantity="one">Löytyi 1</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d vastaajaviestiä</item>
+        <item quantity="one">Vastaaja</item>
+    </plurals>
+</resources>

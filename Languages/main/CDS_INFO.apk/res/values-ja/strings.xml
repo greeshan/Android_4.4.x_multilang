@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="poorlink_profiling_on">Poor Link Profiling on screen</string>
+    <string name="poorlinkupdate">Update Poor Link</string>
+    <string name="radio_info_signal_location_label">Location:</string>
+    <string name="radio_info_neighboring_location_label">Neighboring CID:</string>
+    <string name="radio_info_data_attempts_label">Data attempts:</string>
+    <string name="radio_info_gprs_attach_service_label">GPRS PS service:</string>
+    <string name="radio_info_gprs_service_label">Default pdp status:</string>
+    <string name="radio_info_roaming_label">Roaming:</string>
+    <string name="radio_info_imei_label">IMEI:</string>
+    <string name="radio_info_imsi_label">IMSI:</string>
+    <string name="radio_info_ppp_resets_label">Number of PPP reset since boot:</string>
+    <string name="radio_info_gsm_disconnects_label">GSM disconnects:</string>
+    <string name="radio_info_current_network_label">Current network:</string>
+    <string name="radio_info_data_successes_label">Data successes:</string>
+    <string name="radio_info_ppp_received_label">PPP received:</string>
+    <string name="radio_info_gsm_service_label">GSM service:</string>
+    <string name="radio_info_signal_strength_label">Signal strength:</string>
+    <string name="radio_info_call_status_label">Call status:</string>
+    <string name="radio_info_ppp_sent_label">PPP sent:</string>
+    <string name="radio_info_radio_resets_label">Radio resets:</string>
+    <string name="radio_info_phone_number_label">Phone number:</string>
+    <string name="radio_info_network_type_label">Network type:</string>
+    <string name="radio_info_ping_ipaddr">Ping IpAddr:</string>
+    <string name="radio_info_ping_hostname">Ping Hostname:</string>
+    <string name="radio_info_http_client_test">HTTP Client test:</string>
+    <string name="ping_test_label">Run Ping Test</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">Importimise sihtkoht</string>
+    <string name="import_button">Kas soovid importida üksuse # Kalendrisse?</string>
+    <string name="cancel">"Kas soovid kindlasti allalaadimise tühistada?
+Vajuta nuppu Jätka, et allalaadimist jätkata
+Vajuta nuppu Likvideeri, et allalaadimine likvideerida ja allalaaditud fail kustutada"</string>
+    <string name="no_access_toast">Kontot ei leitud. Lisa kõigepealt konto</string>
+    <string name="null_name">Puudub</string>
+    <string name="import_message">Kas soovid importida üksuse # Kalendrisse?</string>
+    <string name="calendar_lable">"Kalender: "</string>
+    <string name="date_lable">"Kuupäev: "</string>
+    <string name="import_title">Impordi Kalendrisündmus</string>
+    <string name="importing">Importimine ...</string>
+    <string name="import_complete">Importimine on lõpule viidud</string>
+    <string name="open">Luba 4x MSAA OpenGL ES 2.0 rakendustes</string>
+    <string name="done">Valmis</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">Sündmuse importimine ebaõnnestus.</string>
+    <string name="title_lable">Pealkiri: %1$s</string>
+    <string name="no_syncable_calendars">Ei saa importida</string>
+    <string name="no_calendars_found">See konto ei toeta kalendri sünkroonimist või viimane sünkroonimine ei ole veel lõpetatud.</string>
+    <string name="retry">Tõrge edastamisel. Proovib hiljem uuesti.</string>
+    <string name="give_up">Kaugpartner katkestas seansi (vastu võetud SUPL END)</string>
+    <string name="open_calendar_failed">Kalender pole saadaval.</string>
+    <string name="loading">Laadimine…</string>
+    <string name="not_support_multi_events">Mitme sündmusega faili ei toetata.</string>
+</resources>

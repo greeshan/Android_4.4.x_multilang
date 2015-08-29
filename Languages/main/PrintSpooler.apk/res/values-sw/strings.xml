@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Programu ya kuandaa Printa kwa ajili ya Kuchapisha</string>
+    <string name="advanced_settings_button">Mipangilio ya printa</string>
+    <string name="print_button">Chapisha</string>
+    <string name="save_button">Hifadhi</string>
+    <string name="label_destination">Itakapofika</string>
+    <string name="label_copies">Nakala</string>
+    <string name="label_paper_size">Ukubwa wa Karatasi</string>
+    <string name="label_color">Rangi</string>
+    <string name="label_orientation">Mkao</string>
+    <string name="label_pages">Kurasa (%1$s)</string>
+    <string name="pages_range_example">k.m. 1–5, 8, 11–13</string>
+    <string name="print_preview">Chungulia kwanza kabla ya kuchapisha</string>
+    <string name="install_for_print_preview">Sakinisha kitazamaji cha PDF kwa onyesho la kuchungulia</string>
+    <string name="printing_app_crashed">Programu ya kuchapisha imeacha kufanya kazi</string>
+    <string name="page_count_unknown">Kurasa</string>
+    <string name="generating_print_job">Inazanzisha kazi ya kuchapisha</string>
+    <string name="save_as_pdf">Hifadhi kama PDF</string>
+    <string name="all_printers">Printa zote...</string>
+    <string name="print_dialog">Chapisha mazungumzo</string>
+    <string name="search">Tafuta</string>
+    <string name="all_printers_label">Printa zote</string>
+    <string name="add_print_service_label">Ongeza huduma</string>
+    <string name="print_search_box_shown_utterance">Kisanduku cha kutafutia kimeonyeshwa</string>
+    <string name="print_search_box_hidden_utterance">Kisanduku cha kutafutia kimefichwa</string>
+    <string name="print_add_printer">Ongeza printa</string>
+    <string name="print_select_printer">Chagua printa</string>
+    <string name="print_forget_printer">Sahau printa</string>
+    <string name="choose_print_service">Chagua huduma ya printa</string>
+    <string name="print_searching_for_printers">Inatafuta printa</string>
+    <string name="print_no_printers">Hakuna printa zilizopatikana</string>
+    <string name="printing_notification_title_template">Inachapisha %1$s</string>
+    <string name="cancelling_notification_title_template">Inaghairi %1$s</string>
+    <string name="failed_notification_title_template">Hitilafu ya kuchapisha %1$s</string>
+    <string name="blocked_notification_title_template">Printa imefungwa %1$s</string>
+    <string name="cancel">Ghairi</string>
+    <string name="restart">Anzisha upya</string>
+    <string name="no_connection_to_printer">Hakuna muunganisho kwa printa</string>
+    <string name="reason_unknown">haijulikani</string>
+    <string name="printer_unavailable">%1$s - haipatikani</string>
+    <string name="print_error_default_message">Haikuweza kuunda kazi ya kuchapisha</string>
+</resources>

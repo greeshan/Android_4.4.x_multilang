@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_mode_labels">
+        <item>Mustavalkoinen</item>
+        <item>Väri</item>
+    </string-array>
+    <string-array name="orientation_labels">
+        <item>Pysty</item>
+        <item>Vaaka</item>
+    </string-array>
+    <string-array name="page_options_labels">
+        <item>Kaikki</item>
+        <item>Väli</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="poorlink_profiling_on">Poor Link Profiling on screen</string>
+    <string name="poorlinkupdate">Update Poor Link</string>
+    <string name="radio_info_signal_location_label">Местоположение:</string>
+    <string name="radio_info_neighboring_location_label">Соседний CID:</string>
+    <string name="radio_info_data_attempts_label">Попыток данных:</string>
+    <string name="radio_info_gprs_attach_service_label">GPRS PS service:</string>
+    <string name="radio_info_gprs_service_label">Default pdp status:</string>
+    <string name="radio_info_roaming_label">Роуминг:</string>
+    <string name="radio_info_imei_label">IMEI:</string>
+    <string name="radio_info_imsi_label">IMSI:</string>
+    <string name="radio_info_ppp_resets_label">Количество сбросов PPP после загрузки:</string>
+    <string name="radio_info_gsm_disconnects_label">Отключение GSM:</string>
+    <string name="radio_info_current_network_label">Текущая сеть:</string>
+    <string name="radio_info_data_successes_label">Количество успешных обработок данных:</string>
+    <string name="radio_info_ppp_received_label">Получено PPP:</string>
+    <string name="radio_info_gsm_service_label">Служба GSM:</string>
+    <string name="radio_info_signal_strength_label">Громкость сигнала</string>
+    <string name="radio_info_call_status_label">Состояние вызова:</string>
+    <string name="radio_info_ppp_sent_label">Отправлено PPP:</string>
+    <string name="radio_info_radio_resets_label">Сброс настроек радио:</string>
+    <string name="radio_info_phone_number_label">Номер телефона:</string>
+    <string name="radio_info_network_type_label">Тип сети:</string>
+    <string name="radio_info_ping_ipaddr">Выполнить проверку ping IP-адреса:</string>
+    <string name="radio_info_ping_hostname">Ping Hostname:</string>
+    <string name="radio_info_http_client_test">Проверка клиента HTTP:</string>
+    <string name="ping_test_label">Run Ping Test</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Liczba wybranych elementów: %1$d</item>
+        <item quantity="zero">Wybrano %1$d element</item>
+        <item quantity="one">Wybrano %1$d element</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">Liczba wybranych albumów: %1$d</item>
+        <item quantity="zero">Wybrano %1$d album</item>
+        <item quantity="one">Wybrano %1$d album</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">Liczba wybranych grup: %1$d</item>
+        <item quantity="zero">Wybrano %1$d grupę</item>
+        <item quantity="one">Wybrano %1$d grupę</item>
+    </plurals>
+</resources>

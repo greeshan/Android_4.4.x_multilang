@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Svítilna</string>
+    <string name="about_title">O aplikaci</string>
+    <string name="about_close">Zavřít</string>
+    <string name="description">"Ovládání osvětlení LED fotoaparátu.
+"</string>
+    <string name="warning">Upozornění: Pokud ponecháte zapnuté osvětlení LED delší dobu, riskujete jeho přehřátí a poškození.</string>
+    <string name="license">"Autorem původního kódu pro Nexus One je Ben Buxton uvolěný pod licencí GPL, v3.
+http://n1torch.googlecode.com/
+
+Upraveno pro OmniRom Max Weningerem"</string>
+    <string name="warning_label">Upozornění</string>
+    <string name="brightwarn">"Vysoký jas byl úspěšně testován po dobu půl hodiny, ale poté bylo osvětlení velmi horké a poblikávalo (dočasně pod dobu 45 minut). Dlouhodobé účinky nejsou známi.
+
+Klikněte na “Přijmout” pokud chcete vyzkoušet na vlastní nebezpečí."</string>
+    <string name="brightwarn_negative">Ne děkuji</string>
+    <string name="brightwarn_accept">Přijmout</string>
+    <string name="label_on">Zapnout</string>
+    <string name="label_off">Vypnout</string>
+    <string name="label_high">Vysoký</string>
+    <string name="label_strobe">Blikání</string>
+    <string name="label_sos">S.O.S</string>
+    <string name="settings">Nastavení</string>
+    <string name="about">O aplikaci</string>
+    <string name="widget_options">Nastavení widgetu</string>
+    <string name="setting_title_common">Obecné</string>
+    <string name="setting_restart">Prosím, restartujte aplikaci</string>
+    <string name="setting_fullscreen">Celá obrazovka</string>
+    <string name="setting_bright">Jas</string>
+    <string name="setting_sos">S.O.S</string>
+    <string name="setting_strobe">Stroboskopický jev</string>
+    <string name="setting_frequency_title">Frekvence blikání</string>
+    <string name="setting_frequency_dialog">Frekvence</string>
+    <string name="setting_frequency_hz">Hz</string>
+    <string name="setting_add_widget">Přidat widget</string>
+    <string name="not_torch_title">Svítilna zapnuta</string>
+    <string name="not_torch_toggle">Svítilna vypnuta</string>
+</resources>

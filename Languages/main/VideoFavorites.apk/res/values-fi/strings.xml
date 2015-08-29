@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Videosuosikit</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Peruuta</string>
+    <string name="delete_dialog_title">Poista suosikki</string>
+    <string name="delete_dialog_prompt">Poistetaanko %1$s pienohjelmista?</string>
+    <string name="transcoding_prompt">Muunnetaan videota</string>
+    <string name="toast_video_add_cancelled">Videon lisääminen epäonnistui</string>
+    <string name="toast_video_unsupported_resolution">Videon kuvatarkkuus ei tuettu.</string>
+    <string name="toast_low_storage">SD-korttisi on täynnä.</string>
+    <string name="toast_invalid_video">Videomuoto ei tuettu.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">شیل</string>
+    <string name="bugreport_finished_title">کیپچر کی گئی بگ رپورٹ</string>
+    <string name="bugreport_finished_text">اپنی بگ رپورٹ کا اشتراک کرنے کے لیے چھوئیں</string>
+    <string name="bugreport_confirm_repeat">یہ پیغام اگلی بار دکھائیں</string>
+</resources>

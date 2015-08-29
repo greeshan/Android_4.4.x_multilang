@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">ပရင်တာ %1$s ခု တွေ့သည်</item>
+        <item quantity="one">ပရင်တာ %1$s ခု တွေ့သည်</item>
+    </plurals>
+</resources>

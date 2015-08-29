@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_instructions">Ustaw tapetę</string>
+    <string name="wallpaper_accessibility_name">Tapeta %1$d z %2$d</string>
+    <string name="wallpaper_delete">Usuń</string>
+    <string name="pick_wallpaper">Tapety</string>
+    <string name="crop_wallpaper">Przytnij tapetę</string>
+    <string name="wallpaper_button_text">Tapety</string>
+    <string name="pick_image">Wybierz obraz</string>
+    <string name="announce_selection">Selected %1$s</string>
+    <string name="activity_not_found">Aplikacja nie jest zainstalowana</string>
+</resources>

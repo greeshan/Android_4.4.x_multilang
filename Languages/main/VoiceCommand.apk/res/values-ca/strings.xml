@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voice_ui_camera_command_title">Control per veu per a la càmera</string>
+    <string name="voice_ui_phone_command_title">Control per veu per al telèfon</string>
+    <string name="voice_ui_alarm_command_title">Control per veu per a l’alarma</string>
+    <string name="app_name">Ordre de veu</string>
+    <string name="voice_ui_title">Control per veu</string>
+    <string name="voice_ui_app_category">Per a aplicacions</string>
+    <string name="voice_ui_setting_category">Configuració d’A-GPS</string>
+    <string name="voice_ui_language_title">Idioma del control per veu</string>
+    <string name="incoming_call_app_name">Telèfon</string>
+    <string name="alarm_app_name">Alarmes</string>
+    <string name="camera_app_name">Canvi de càmera disponible si està activat</string>
+    <string name="music_app_name">"Dibuixa l'ona sonora de qualsevol pista de música que s'estigui reproduint."</string>
+    <string name="incomming_command_summary_format">Pots dir %1$s o %2$s per respondre o ignorar una trucada entrant.</string>
+    <string name="alarm_command_summary_format">Pots dir %1$s o %2$s per controlar l’alarma.</string>
+    <string name="camera_command_summary_format">Pots dir %1$s o %2$s per fer una captura.</string>
+    <string name="music_command_summary_format">Pots dir %1$s i %2$s per controlar la reproducció de música.</string>
+    <string name="playback_failed">No s’ha pogut obrir el fitxer.</string>
+    <string name="voice_ui_commands">ORDRES</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="enable_mode_list">
+        <item>użyj poprzednich ustawień</item>
+        <item>skonfiguruj nowe ustawienia</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Vaadake kõiki oma rakendusi.
+ Puudutage käivitajaikooni. @drawable/all_apps"</item>
+        <item>"Lohistage rakendused oma avakuvale.
+ Puudutage käivitajas rakendust ja hoidke seda all seni, kuni see vibreerima hakkab."</item>
+        <item>"Korraldage oma avakuva.
+ Puudutage üksust ja hoidke seda all ning kui see hakkab vibreerima, siis lohistage see sinna, kuhu soovite."</item>
+        <item>"Eemaldage üksused.
+ Puudutage üksust ja hoidke seda all ning kui see hakkab vibreerima, siis lohistage see prügikastiikoonile. @drawable/trash"</item>
+        <item>"Mitu avakuva.
+ Vahetamiseks libistage vasakule või paremale. Lohistage üksused teistele ekraanidele."</item>
+        <item>"Olete selle vidinaga lõpetanud?
+ Puudutage vidinat ja hoidke seda all ning kui see hakkab vibreerima, siis lohistage see prügikastiikoonile."</item>
+    </string-array>
+</resources>

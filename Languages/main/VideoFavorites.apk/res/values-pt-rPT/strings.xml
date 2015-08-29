@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vídeos favoritos</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete_dialog_title">Eliminar favorito</string>
+    <string name="delete_dialog_prompt">Eliminar %1$s do widget?</string>
+    <string name="transcoding_prompt">A converter o vídeo</string>
+    <string name="toast_video_add_cancelled">Falha ao adicionar o vídeo</string>
+    <string name="toast_video_unsupported_resolution">A resolução do vídeo não é suportada.</string>
+    <string name="toast_low_storage">O cartão SD está cheio.</string>
+    <string name="toast_invalid_video">Formato de vídeo não suportado.</string>
+</resources>

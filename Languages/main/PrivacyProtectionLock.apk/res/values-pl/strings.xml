@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mobilna anty-kradzież</string>
+    <string name="status_enabled">Włączone</string>
+    <string name="status_provisioned">Zablokuj telefon lub usuń dane zdalnie</string>
+    <string name="status_unprovisioned">Zablokuj telefon lub usuń dane zdalnie</string>
+    <string name="status_pending">Zablokuj telefon lub usuń dane zdalnie</string>
+    <string name="status_control_panel_enabled">Anty-kradzież włączona</string>
+    <string name="status_control_panel_disabled">Anty-kradzież wyłączona</string>
+    <string name="checkbox_show_password">Pokaż hasło</string>
+    <string name="checkbox_send_sms">Zrób kopię zapasową komend zdalnego sterowania do kontaktów alarmowych poprzez SMS</string>
+    <string name="button_control_panel_change_password">Zmień PIN anty-kradzieżowy</string>
+    <string name="button_control_panel_update_emergency_contacts">Aktualizuj kontakty alarmowe</string>
+    <string name="button_control_panel_view_instructions">Pokaż komendy zdalnego sterowania</string>
+    <string name="button_control_panel_disable">Wyłącz mobilną anty-kradzież</string>
+    <string name="button_next">Dalej</string>
+    <string name="button_confirm">Zakończ</string>
+    <string name="button_finish">Zakończ</string>
+    <string name="button_send_sms">Wyślij wiadomość</string>
+    <string name="button_add_contact_line">Dodaj kontakt alarmowy</string>
+    <string name="title_access_lock">Wpisz PIN anty-kradzieżowy</string>
+    <string name="title_setup_password">Włącz anty-kradzież (1/3)</string>
+    <string name="title_setup_trusted_contact">Włącz anty-kradzież (2/3)</string>
+    <string name="title_setup_send_manual">Włącz anty-kradzież (3/3)</string>
+    <string name="title_view_instruction">Pokaż komendy zdalnego sterowania</string>
+    <string name="title_choose_enable_mode">Włącz do</string>
+    <string name="title_control_panel_contacts">Twoje kontakty alarmowe</string>
+    <string name="title_choose_sim">Wybierz SIM</string>
+    <string name="title_choose_number">Wybierz numer</string>
+    <string name="title_update_trusted_contact">Aktualizuj kontakty alarmowe</string>
+    <string name="title_change_password">Zmień PIN anty-kradzieżowy</string>
+    <string name="summary_setup_password">Ustaw PIN anty-kradzieżowy</string>
+    <string name="summary_setup_trusted_contact">Ustaw kontakty alarmowe</string>
+    <string name="summary_update_trusted_contact">Ustaw kontakty alarmowe</string>
+    <string name="summary_setup_send_manual">Komendy zdalnego sterowania</string>
+    <string name="summary_view_instruction">Komendy zdalnego sterowania</string>
+    <string name="description_disable_confirm">Nie będziesz mógł zdalnie zablokować telefonu lub usunąć danych jeśli wyłączysz anty-kradzież. Czy na pewno chcesz wyłączyć?</string>
+    <string name="description_turnoff_airplane_mode_confirm">Musisz wyłączyć tryb samolotowy żeby wysłać wiadomość. Kontynuować?</string>
+    <string name="description_setup_password">Anty-kradzieżowy PIN jest potrzebny za każdym razem kiedy chcesz zmienić ustawienia anty-kradzieżowe.</string>
+    <string name="description_setup_trusted_contact">"1. Kontakty Alarmowe są używane aby zdalnie wysłać komendy;
+2. Kiedy kart SIM zostaną zmienione, powiadomienie zostanie wysłane do kontaktów alarmowych poprzez SMS. Treść SMSa to: Mój telefon mógł zostać ukradziony, proszę zatrzymaj numer nadawcy tej wiadomości."</string>
+    <string name="description_update_trusted_contact">"1. Kontakty Alarmowe są używane aby zdalnie wysłać komendy;
+2. Kiedy kart SIM zostaną zmienione, powiadomienie zostanie wysłane do kontaktów alarmowych poprzez SMS. Treść SMSa to: Mój telefon mógł zostać ukradziony, proszę zatrzymaj numer nadawcy tej wiadomości."</string>
+    <string name="description_setup_send_manual">Kiedy zgubisz telefon, możesz go zdalnie kontrolować wysyłając do niego SMS przez kontakty alarmowe.</string>
+    <string name="description_view_instruction">Kiedy zgubisz telefon, możesz go zdalnie kontrolować wysyłając do niego SMS przez kontakty alarmowe.</string>
+    <string name="hint_setup_password_input_1">Proszę wpisać swój PIN (6 do 12 cyfr)</string>
+    <string name="hint_setup_password_input_2">Proszę wprowadzić ponownie</string>
+    <string name="hint_trusted_contact">Sugerowany numer Twojego kith i kin</string>
+    <string name="hint_update_trusted_contact">Sugerowany numer Twojego kith i kin</string>
+    <string name="content_setup_send_manual">&lt;p>1. Remote phone lock&lt;/p>&lt;p>Send message &lt;font color=#33B5E5>#suoding#&lt;/font>&lt;/p>&lt;p>2. Remote data wipe&lt;/p>&lt;p>Send message &lt;font color=#33B5E5>#xiaohui#&lt;/font>&lt;/p>&lt;p>3. Fetch back anti-theft PIN&lt;/p>&lt;p>Send message &lt;font color=#33B5E5>#mima#&lt;/font>&lt;/p></string>
+    <string name="toast_passwords_do_not_match">Dwa wprowadzone PINy są różne.</string>
+    <string name="toast_password_is_incorrect">Hasło jest nieprawidłowe</string>
+    <string name="toast_no_phone_number">Nie znaleziono numeru telefonu</string>
+    <string name="toast_no_sim">Nie znaleziono SIM</string>
+    <string name="toast_instruction_send_succeeded">Wiadomość kopii danych z komendami została pomyślnie zdalnie wysłana.</string>
+    <string name="toast_instruction_send_failed">Nie udało się zdalnie wysłać wiadomości z komendą zrobienia kopii danych.</string>
+    <string name="item_sim_n">SIM</string>
+    <string name="image_button_description_add">Dodaj numer z kontaktów</string>
+    <string name="image_button_description_delete">Usuń ten numer</string>
+    <string name="image_description_logo">Logo Zablokowanej Ochrony Prywatności</string>
+    <string name="ppl_permission_label">Dostęp do Blokady Ochrony Prywatności</string>
+    <string name="ppl_permission_description">Dostęp do kluczowych ustawień Menadżera Ochrony Prywatności. Prawdopodobnie NIE powinieneś włączać tej funkcji.</string>
+    <string name="test_entry_launch">Włącz</string>
+    <string name="test_entry_status">Status</string>
+    <string name="test_entry_enabled">Włączone</string>
+    <string name="test_entry_provisioned">Dostarczone</string>
+</resources>

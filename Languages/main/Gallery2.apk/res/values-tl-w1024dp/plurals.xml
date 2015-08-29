@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d mga item napili</item>
+        <item quantity="zero">%1$d item napili</item>
+        <item quantity="one">%1$d item napili</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d mga album napili</item>
+        <item quantity="zero">%1$d album napili</item>
+        <item quantity="one">%1$d album napili</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d mga pangkat napili</item>
+        <item quantity="zero">%1$d pangkat napili</item>
+        <item quantity="one">%1$d pangkat napili</item>
+    </plurals>
+</resources>

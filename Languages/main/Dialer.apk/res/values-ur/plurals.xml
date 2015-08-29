@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">%s منٹ کے لئے کوئی ڈیٹا کنکشن نہيں</item>
+        <item quantity="one">%s منٹ کے لئے کوئی ڈیٹا کنکشن نہيں</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">فون %s منٹ تک ایمرجنسی کال بیک وضع پر ہوگا۔ اس وضع میں ڈیٹا کنکشن استعمال کرنے والا کوئی اپلیکیشن استعمال نہیں کیا جاسکتا۔ کیا اب آپ خارج ہونا چاہتے ہیں؟</item>
+        <item quantity="one">فون %s منٹ تک ایمرجنسی کال بیک وضع پر ہوگا۔ اس وضع میں ڈیٹا کنکشن استعمال کرنے والا کوئی اپلیکیشن استعمال نہیں کیا جاسکتا۔ کیا اب آپ باہر نکلنا چاہتے ہیں؟</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">منتخب کردہ کارروائی ہنگامی کال بیک طرز میں دستیاب نہیں ہے۔ یہ فون اس طرز میں %s منٹ تک رہے گا۔ کیا آپ ابھی خارج ہونا چاہتے ہیں؟</item>
+        <item quantity="one">منتخب کردہ کارروائی ہنگامی کال بیک طرز میں دستیاب نہیں ہے۔ یہ فون اس طرز میں %s منٹ تک رہے گا۔ کیا آپ ابھی خارج ہونا چاہتے ہیں؟</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d کال کے لاگ</item>
+        <item quantity="one">1 کال لاگ</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d روابط</item>
+        <item quantity="one">1 رابطہ</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d وائس میل</item>
+        <item quantity="one">وائس میل</item>
+    </plurals>
+</resources>

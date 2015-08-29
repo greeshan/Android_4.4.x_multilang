@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM Narzędzia</string>
+    <string name="activity_not_found">Aplikacja nie jest zainstalowana na Twoim telefonie.</string>
+    <string name="simlock_toolkit">SIM Narzędzia</string>
+    <string name="no_sim_card_inserted">Proszę włozyć kartę SIM aby włączyć SIM Narzędzia.</string>
+    <string name="airplane_mode_on">Nie można włączyć Narzędzi SIM kiedy jest włączony tryb samolotowy.</string>
+    <string name="lable_sim_not_ready">Narzędzia SIM nie są gotowe lub wspierane.</string>
+</resources>

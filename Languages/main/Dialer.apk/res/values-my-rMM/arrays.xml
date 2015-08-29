@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>မူလကွန်ယက်ပုံစံ</item>
+        <item>နံပါတ်ကို ဖျောက်ထားပါ</item>
+        <item>နံပါတ်ကို ပြပါ</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / WCDMA</item>
+        <item>သတ်မှတ်မထား</item>
+        <item>ဂလိုဘယ်</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo သာ</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo အလိုအလျောက်</item>
+        <item>GSM/WCDMA အလိုအလျောက်</item>
+        <item>WCDMA သာ</item>
+        <item>GSM သာ</item>
+        <item>နှစ်သက်ရာ GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>အင်္ဂလိပ်</item>
+        <item>ပြင်သစ်</item>
+        <item>စပိန်</item>
+        <item>ဂျပန်</item>
+        <item>ကိုရီးယား</item>
+        <item>တရုတ်</item>
+        <item>ဟီဘရူး</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>အိမ်တွင်းသာ</item>
+        <item>အလိုအလျောက်</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY အကြားအာရုံချို့တဲ့သူများအတွက် စာသားမက်ဆေ့ ပိတ်ထားပါ</item>
+        <item>TTY အကြားအာရုံချို့တဲ့သူများအတွက် စာသားမက်ဆေ့များ ပြည့်နေပြီ</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO အကြားအာရုံချို့တဲ့သူများအတွက် စာသားမက်ဆေ့</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>ပုံမှန်</item>
+        <item>ရှည်</item>
+    </string-array>
+</resources>

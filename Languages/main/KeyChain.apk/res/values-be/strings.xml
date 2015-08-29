@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ключавы ланцужок</string>
+    <string name="title_no_certs">Сертыфiкаты не знойдзены</string>
+    <string name="title_select_cert">Выберыце сертыфікат</string>
+    <string name="requesting_application">Прыкладанне %s запытала сертыфiкат. Выбар сертыфiката дазволiць прыкладанню выкарыстоўваць iдэнтыфiкатар для сервераў зараз i ў будучынi.</string>
+    <string name="requesting_server">Прыкладанне вызначыла запытаны сервер як %s, але патрэбна адкрыць прыкладанню доступ да сертыфiката, калi вы яму давяраеце.</string>
+    <string name="install_new_cert_message">Вы можаце ўсталяваць файл PKCS#12 з пашырэннем %1$s або %2$s, якiя знаходзяцца на знешнiм назапашвальнiку.</string>
+    <string name="install_new_cert_button_label">Усталяваць</string>
+    <string name="allow_button">Дазволіць</string>
+    <string name="deny_button">Забараніць</string>
+</resources>

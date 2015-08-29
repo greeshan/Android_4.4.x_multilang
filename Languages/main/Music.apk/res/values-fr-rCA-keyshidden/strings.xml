@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_playlist_create_text_prompt">"Ouvrez le clavier afin d'attribuer un nom à la nouvelle liste de lecture ou sélectionnez \"Enregistrer\" pour la nommer \"%s\"."</string>
+    <string name="rename_playlist_same_prompt">Ouvrez le clavier pour renommer la liste de lecture \"%s\".</string>
+    <string name="rename_playlist_diff_prompt">Ouvrez le clavier pour attribuer un nouveau nom à la liste de lecture \"%1$s\" ou sélectionnez \"Enregistrer\" pour la nommer \"%2$s\".</string>
+</resources>

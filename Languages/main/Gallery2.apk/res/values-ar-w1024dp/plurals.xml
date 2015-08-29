@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">تم تحديد %1$d عناصر</item>
+        <item quantity="zero">تم تحديد %1$d عنصر</item>
+        <item quantity="one">تم تحديد %1$d عنصر</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">تم تحديد %1$d ألبومات</item>
+        <item quantity="zero">تم تحديد %1$d ألبوم</item>
+        <item quantity="one">تم تحديد %1$d ألبوم</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">تم تحديد %1$d مجموعات</item>
+        <item quantity="zero">تم تحديد %1$d مجموعة</item>
+        <item quantity="one">تم تحديد %1$d مجموعة</item>
+    </plurals>
+</resources>

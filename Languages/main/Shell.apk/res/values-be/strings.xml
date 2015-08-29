@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Абалонка</string>
+    <string name="bugreport_finished_title">Справаздача пра збой захавана</string>
+    <string name="bugreport_finished_text">Націсніце, каб падзяліцца сваёй справаздачай пра збой</string>
+    <string name="bugreport_confirm">Справаздача пра памылку ўтрымлівае дадзеныя з гiсторыi сістэмных файлаў, у тым ліку персанальную і прыватную інфармацыю. Дзялiцеся справаздачамi пра збоi толькi з праверанымi карыстальнiкамi i прыкладаннямi.</string>
+    <string name="bugreport_confirm_repeat">У наступны раз паказваць гэта паведамленне</string>
+</resources>

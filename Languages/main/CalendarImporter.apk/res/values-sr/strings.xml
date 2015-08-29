@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">Увези у</string>
+    <string name="import_button">Желите ли да увезете # у Календар?</string>
+    <string name="cancel">"Желите ли сигурно да откажете преузимање?
+Притисните дугме Настави да бисте наставили преузимање
+ Притисните дугме Одбаци да бисте одбацили преузимање и обрисали преузету датотеку"</string>
+    <string name="no_access_toast">Налог није нађен. Прво додајте налог</string>
+    <string name="null_name">Ниједан</string>
+    <string name="import_message">Желите ли да увезете # у Календар?</string>
+    <string name="calendar_lable">"Календар: "</string>
+    <string name="date_lable">"Датум: "</string>
+    <string name="import_title">Увоз догађаја календара</string>
+    <string name="importing">Увоз...</string>
+    <string name="import_complete">Увоз завршен</string>
+    <string name="open">Омогући 4x MSAA у OpenGL ES 2.0 апликацијама</string>
+    <string name="done">Завршено</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">Увоз догађаја није успео.</string>
+    <string name="title_lable">Наслов: %1$s</string>
+    <string name="no_syncable_calendars">Није могуће увести</string>
+    <string name="no_calendars_found">Овај налог не подржава синхронизацију календара или последња синхронизација још није завршена.</string>
+    <string name="retry">Пренос није успешан. Покушајте поново касније.</string>
+    <string name="give_up">Удаљена страна прекинула сесију (примање SUPL END)</string>
+    <string name="open_calendar_failed">Календар није доступан.</string>
+    <string name="loading">Учитавање…</string>
+    <string name="not_support_multi_events">Датотека са више догађаја није подржана.</string>
+</resources>

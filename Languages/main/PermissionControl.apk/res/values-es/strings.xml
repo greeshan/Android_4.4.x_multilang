@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="manage_permission_app_label">Gestion de permisos</string>
+    <string name="manage_permission_summary">Controla los permisos de las aplicaciones para proteger la seguridad y la privacidad.</string>
+    <string name="permissions_label">Permisos</string>
+    <string name="apps">Aplicaciones</string>
+    <string name="notify_user_switch_on">Activa el interruptor para gestionar los permisos de las aplicaciones.</string>
+    <string name="foreground_notification_title">Gestión de los permisos activada</string>
+    <string name="foreground_notification_summary">Toca para ver información mas detallada sobre las aplicaciones y sus permisos.</string>
+    <string name="auto_boot_pref_title">Gestión de arranque</string>
+    <string name="auto_boot_pref_summary">Permite o deniega aplicaciones durante el arranque de sistema.</string>
+    <string name="no_auto_boot_app">No existen aplicaciones.</string>
+</resources>

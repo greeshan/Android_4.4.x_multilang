@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skanowanie…</item>
+        <item>Łączenie…</item>
+        <item>Autoryzowanie…</item>
+        <item>Pobieranie adresu IP…</item>
+        <item>Połączony</item>
+        <item>Zawieszone</item>
+        <item>Rozłączanie…</item>
+        <item>Rozłączony</item>
+        <item>Niepomyślnie</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Skanowanie…</item>
+        <item>Connecting to %1$s…</item>
+        <item>Authenticating with %1$s…</item>
+        <item>Obtaining IP address from %1$s…</item>
+        <item>Connected to %1$s</item>
+        <item>Zawieszone</item>
+        <item>Disconnecting from %1$s…</item>
+        <item>Rozłączony</item>
+        <item>Niepomyślnie</item>
+    </string-array>
+</resources>

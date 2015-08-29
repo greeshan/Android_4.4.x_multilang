@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Apvalkalas</string>
+    <string name="bugreport_finished_title">Trikčių ataskaita užfiksuota</string>
+    <string name="bugreport_finished_text">Palieskite, kad bendrintumėte trikčių ataskaitą</string>
+    <string name="bugreport_confirm">Trikčių ataskaitose pateikiami duomenys iš įvairių sistemos žurnalo failų, įskaitant asmeninę ir privačią informaciją. Trikčių ataskaitas bendrinkite tik su patikimomis programomis ir žmonėmis.</string>
+    <string name="bugreport_confirm_repeat">Rodyti šį pranešimą kitą kartą</string>
+</resources>

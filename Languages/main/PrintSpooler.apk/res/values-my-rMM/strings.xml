@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="print_button">ပရင့်ထုတ်ပါ</string>
+    <string name="save_button">သိမ်းဆည်းပါ</string>
+    <string name="label_color">အရောင်</string>
+    <string name="label_orientation">အနေအထား</string>
+    <string name="search">ရှာဖွေပါ</string>
+    <string name="add_print_service_label">ဝန်ဆောင်မှု ထပ်ထည့်ပါ</string>
+    <string name="print_search_box_shown_utterance">ရှာသည့်အကွက် ပြထား</string>
+    <string name="print_search_box_hidden_utterance">ရှာသည့်အကွက် ဝှက်ထား</string>
+    <string name="print_add_printer">ပရင်တာ ထပ်ထည့်ပါ</string>
+    <string name="print_searching_for_printers">ပရင်တာများကို ရှာနေသည်</string>
+    <string name="print_no_printers">ပရင်တာများမတွေ့ပါ</string>
+    <string name="printing_notification_title_template">%1$s ကို ပုံနှိပ်နေသည်</string>
+    <string name="failed_notification_title_template">ပရင်တာအမှား %1$s</string>
+    <string name="blocked_notification_title_template">%1$s ကို ပရင်တာပိတ်ဆို့</string>
+    <string name="cancel">မလုပ်ပါ</string>
+    <string name="restart">ပြန်လည်စတင်သည်</string>
+    <string name="reason_unknown">မသိသော</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Control de permisos</string>
+    <string name="accept_perm">Permet</string>
+    <string name="deny_perm">Denega</string>
+    <string name="notify_check_hint">No m’ho tornis a recordar.</string>
+    <string name="notify_dialog_title">Advertiment de seguretat</string>
+    <string name="notify_dialog_msg_body" formatted="false">%s prova de %s.</string>
+    <string name="time_count_down_hint">(Rebutja-la automàticament després de %s segons.)</string>
+    <string name="notification_control_state_title">Permís de l’aplicació</string>
+    <string name="notification_control_state_summary">S’ha tancat l’administració de permisos de l’aplicació.</string>
+    <string name="toast_deny_msg_body" formatted="false">%s ha rebutjat %s.</string>
+    <string name="manage_permission_app_label">Permisos de l’aplicació</string>
+    <string name="manage_permission_summary">Administra els permisos de l’aplicació de seguretat i de protecció de la privadesa</string>
+    <string name="permissions_label">Permisos</string>
+    <string name="apps">Aplicacions</string>
+    <string name="no_applications">No hi ha aplicacions.</string>
+    <string name="version_text">versió %1$s</string>
+    <string name="app_count_unit_single">Aplicació</string>
+    <string name="app_count_unit_plural">Aplicacions</string>
+    <string name="perm_count_unit_single">Permís</string>
+    <string name="perm_count_unit_plural">Permisos</string>
+    <string name="no_app_use_perm">No hi ha cap aplicació que utilitzi aquest permís.</string>
+    <string name="no_perm_is_used">Aquesta aplicació no utilitza cap permís.</string>
+    <string name="notify_user_switch_on">Activa el commutador per administrar els permisos de l’aplicació.</string>
+    <string name="alert_dlg_title">Desactivar la protecció?</string>
+    <string name="alert_dlg_mgs">Les aplicacions obtindran permís directament sense la teva confirmació.</string>
+    <string name="foreground_notification_title">S’està executant l’administració de permisos de l’aplicació</string>
+    <string name="foreground_notification_summary">Toca per veure la configuració detallada dels permisos de les aplicacions.</string>
+    <string name="auto_boot_pref_title">Inicia l’administració automàticament</string>
+    <string name="auto_boot_pref_summary">Permet o rebutja l’inici automàtic de les aplicacions durant l’arrencada del sistema</string>
+    <string name="no_auto_boot_app">No iniciïs les aplicacions automàticament.</string>
+</resources>

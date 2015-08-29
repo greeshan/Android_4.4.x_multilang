@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oblíbená videa</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Zrušit</string>
+    <string name="delete_dialog_title">Odstranit oblíbené</string>
+    <string name="delete_dialog_prompt">Odstranit %1$s z pomůcky?</string>
+    <string name="transcoding_prompt">Převádění videa</string>
+    <string name="toast_video_add_cancelled">Přidání videa se nezdařilo</string>
+    <string name="toast_video_unsupported_resolution">Rozlišení videa není podporováno.</string>
+    <string name="toast_low_storage">Vaše karta SD je plná.</string>
+    <string name="toast_invalid_video">Nepodporovaný formát videa.</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фонарик</string>
+    <string name="torch_not_spported">Ваше устройство не поддерживает фонарик!</string>
+    <string name="lighted">Фонарик включен!</string>
+    <string name="extinguished">Фонарик выключен!</string>
+    <string name="notification_text">Фонарик включен! Нажмите, чтобы выключить.</string>
+    <string name="can_not_open_camera">Камера уже используется!</string>
+    <string name="flash_protection">Защита вспышки камеры</string>
+    <string name="auto_close">Автовыключение</string>
+    <string name="format_auto_close">После %d минут(ы)</string>
+    <string name="auto_close_never">Никогда</string>
+    <string name="auto_close_30_sec">После 30 секунд</string>
+    <string name="auto_close_1_min">После 1 минуты</string>
+    <string name="auto_close_2_min">После 2 минут</string>
+    <string name="auto_close_3_min">После 3 минут</string>
+    <string name="auto_close_5_min">После 5 минут</string>
+    <string name="settings_activity">Настройка фонарика</string>
+</resources>

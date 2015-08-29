@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permission_label">
+        <item>Wykonaj połączenia</item>
+        <item>inicjuj połączenia konferencyjne</item>
+        <item>Wyślij SMS</item>
+        <item>Wyślij MMS</item>
+        <item>Rozpocznik nagrywanie dźwięku</item>
+        <item>Odczytaj SMS</item>
+        <item>Odczytaj MMS</item>
+        <item>Odczytaj kontakty</item>
+        <item>Odczytaj historię połaczeń</item>
+        <item>Sprawdź pozycję</item>
+        <item>Użyj kamery</item>
+        <item>Włącz transfer danych</item>
+        <item>Włącz Wi-Fi</item>
+        <item>Włącz Bluetooth</item>
+        <item>Użyj HotKnot</item>
+    </string-array>
+    <string-array name="perm_status_entry">
+        <item>Zawsze zezwalaj</item>
+        <item>Zawsze pytaj</item>
+        <item>Zawsze odmawiaj</item>
+    </string-array>
+    <string-array name="confirm_msg_body">
+        <item>wykonaj połaczenie</item>
+        <item>inicjuj połączenia konferencyjne</item>
+        <item>wyślij SMS</item>
+        <item>Wyślij MMS</item>
+        <item>rozpocznij nagrywanie dźwięku</item>
+        <item>Odczytaj SMS</item>
+        <item>Odczytaj MMS</item>
+        <item>Odczytaj kontaktu</item>
+        <item>Odczytaj historię połaczeń</item>
+        <item>uzyskaj swoją bieżącą pozycję</item>
+        <item>użyj kamery</item>
+        <item>włacz transfer danych</item>
+        <item>włącz Wi-Fi</item>
+        <item>Włącz Bluetooth</item>
+        <item>Użyj HotKnot</item>
+    </string-array>
+</resources>

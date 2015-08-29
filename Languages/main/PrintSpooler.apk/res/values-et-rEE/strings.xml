@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Prindispuuler</string>
+    <string name="advanced_settings_button">Printeri seaded</string>
+    <string name="print_button">Prindi</string>
+    <string name="save_button">Salvesta</string>
+    <string name="label_destination">Sihtkoht</string>
+    <string name="label_copies">Koopiaid</string>
+    <string name="label_paper_size">Paberiformaat</string>
+    <string name="label_color">Värv</string>
+    <string name="label_orientation">Suund</string>
+    <string name="label_pages">Lehti (%1$s)</string>
+    <string name="pages_range_example">nt 1–5, 8, 11–13</string>
+    <string name="print_preview">Prindi eelvaade</string>
+    <string name="install_for_print_preview">PDF-vaaturi installimine eelvaate kuvamiseks</string>
+    <string name="printing_app_crashed">Printimisrakendus jooksis kokku</string>
+    <string name="page_count_unknown">Lehed</string>
+    <string name="generating_print_job">Prinditöö loomine</string>
+    <string name="save_as_pdf">Salvesta PDF-ina</string>
+    <string name="all_printers">Kõik printerid …</string>
+    <string name="print_dialog">Printimisdialoog</string>
+    <string name="search">Otsing</string>
+    <string name="all_printers_label">Kõik printerid</string>
+    <string name="add_print_service_label">Lisa teenus</string>
+    <string name="print_search_box_shown_utterance">Otsingukast on kuvatud</string>
+    <string name="print_search_box_hidden_utterance">Otsingukast on peidetud</string>
+    <string name="print_add_printer">Lisa printer</string>
+    <string name="print_select_printer">Printeri valimine</string>
+    <string name="print_forget_printer">Printeri unustamine</string>
+    <string name="choose_print_service">Prinditeenuse valimine</string>
+    <string name="print_searching_for_printers">Printerite otsimine</string>
+    <string name="print_no_printers">Printereid ei leitud</string>
+    <string name="printing_notification_title_template">Prinditöö %1$s printimine</string>
+    <string name="cancelling_notification_title_template">Prinditöö %1$s tühistamine</string>
+    <string name="failed_notification_title_template">Printeri viga: %1$s</string>
+    <string name="blocked_notification_title_template">Printer blokeeris töö %1$s</string>
+    <string name="cancel">Tühista</string>
+    <string name="restart">Taaskäivita</string>
+    <string name="no_connection_to_printer">Printeriühendus puudub</string>
+    <string name="reason_unknown">teadmata</string>
+    <string name="printer_unavailable">%1$s – pole saadaval</string>
+    <string name="print_error_default_message">Prinditööd ei saanud luua</string>
+</resources>

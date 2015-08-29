@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_mode_labels">
+        <item>Okumnyama nokumhlophe</item>
+        <item>Umbala</item>
+    </string-array>
+    <string-array name="orientation_labels">
+        <item>Ukuma ngobude</item>
+        <item>Ukwakheka kwezwe</item>
+    </string-array>
+    <string-array name="page_options_labels">
+        <item>Konke</item>
+        <item>Ibanga</item>
+    </string-array>
+</resources>

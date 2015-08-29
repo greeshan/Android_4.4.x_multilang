@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">En Beğenilen Videolar</string>
+    <string name="ok">Tamam</string>
+    <string name="cancel">İptal</string>
+    <string name="delete_dialog_title">En Beğenilenleri Sil</string>
+    <string name="delete_dialog_prompt">"Widget'ten %1$s silinsin mi? "</string>
+    <string name="transcoding_prompt">Video dönüştürülüyor</string>
+    <string name="toast_video_add_cancelled">Video eklenemedi</string>
+    <string name="toast_video_unsupported_resolution">Video çözünürlüğü desteklenmiyor.</string>
+    <string name="toast_low_storage">SD kartınız dolu.</string>
+    <string name="toast_invalid_video">Desteklenmeyen video biçimi.</string>
+</resources>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_domestic_zone_name">बीजिंग</string>
+    <string name="every_day">प्रत्येक दिन</string>
+    <string name="never">कभी नहीं</string>
+    <string name="default_label">अलार्म</string>
+    <string name="voiceui_notify_string">आप कह सकते हैं</string>
+    <string name="voiceui_control_poweroff_alarm">पावर-ऑफ़ अलार्म नियंत्रित करने के लिए</string>
+    <string name="voiceui_or">या</string>
+    <string name="keyguard_accessibility_alarm_unlock">पावर-ऑफ़ अलार्म</string>
+    <string name="alarm_alert_dismiss_text">ख़ारिज करें</string>
+    <string name="alarm_alert_snooze_text">स्नूज़ करें</string>
+    <string name="keyguard_password_entering_puk_code">पीयूके कोड डालें</string>
+    <string name="keyguard_password_wrong_puk_code">गलत पीयूके कोड!</string>
+    <string name="invalidPuk">8 अंक इनपुट करें.</string>
+    <string name="pin_pass">कोड स्वीकृत हुआ</string>
+    <string name="keyguard_password_enter_new_pin_code">नया पिन डालें</string>
+    <string name="keyguard_password_Confirm_pin_code">नए पिन की पुष्टि करें</string>
+    <string name="sim_permanently_locked">गलत पीयूके कोड को 10 से ज्‍यादा गलत डालने से, सिमकार्ड हमेशा के लिए लॉक हो गया।</string>
+    <string name="retries_left">शेष:%d</string>
+    <string name="simlock_slot_locked_message">स्लॉट स्थायी रूप से लॉक कर दिया गया है</string>
+    <string name="simlock_entersimmelock">SIM ME लॉक दर्ज करें</string>
+    <string name="slot_id">स्लॉट %d:</string>
+    <string name="new_simcard">नया सिम कार्ड</string>
+    <string name="lockscreen_missing_sim_dialog_message">सिम कार्ड अनप्लग्ड है कृपया अपने सिम कार्ड का ठीक प्रकार से प्लग इन होना सुनिश्चित करें।</string>
+    <string name="puk_pass">पिन अवरोध हटा</string>
+    <string name="sim_card_changed_dialog_title">सिम कार्ड बदला</string>
+    <string name="change_setting_for_onenewsim">नया SIM कार्ड मिला है. अब डिफ़ॉल्ट SIM सेटिंग्स हैं:</string>
+    <string name="change_setting_for_twonewsim">नया SIM कार्ड मिला है. अब डिफ़ॉल्ट SIM सेटिंग्स हैं:</string>
+    <string name="sim_card_removed">सिम कार्ड हटा।</string>
+    <string name="sim_card_swapped">सिम कार्ड का अदल-बदल हुआ।</string>
+    <string name="change_settings">बदलें</string>
+    <string name="keyguard_voice_call">ध्वनि कॉल:</string>
+    <string name="keyguard_sms">SMS:</string>
+    <string name="keyguard_data">डेटा कनेक्शन:</string>
+    <string name="dismiss">ख़ारिज करें</string>
+    <string name="keyguard_wrong_code_input">गलत कोड.</string>
+    <string name="keyguard_code_length_prompt">4-8 अंक इनपुट करें.</string>
+    <string name="keyguard_code_donnot_mismatch">मैच न करें.</string>
+    <string name="network_searching">नए नेटवर्क के लिए खोज हो रही है</string>
+    <string name="searching_simcard">खोज रहा है...</string>
+    <string name="keyguard_close">बंद करें</string>
+    <string name="default_sim_setting_prompt">अब डिफ़ॉल्ट SIM सेटिंग कर रहे हैं:</string>
+    <string name="keyguard_video_call">वीडियो कॉल:</string>
+    <string name="invalid_sim_title">अमान्य SIM कार्ड</string>
+    <string name="invalid_sim_message">UIM/SIM कार्ड स्वीकृत नहीं है</string>
+    <string name="lockscreen_sim_locked_message_short">सिम कार्ड लॉक है</string>
+    <string name="keyguard_alwaysask">हमेशा पूछें</string>
+    <string name="keyguard_data_none">ऑफ</string>
+    <string name="keyguard_sim_auto">स्वचालित</string>
+    <string name="keyguard_internal_call">इंटरनेट कॉल</string>
+    <string name="keyguard_not_set">सेट नहीं है</string>
+    <string name="voice_unlock_service_error">वॉयस अनलॉक सेवा त्रुटि।</string>
+    <string name="voice_unlock_password_wrong">क्षमा करें, आपकी आवाज़ को पहचान नहीं सकते।</string>
+    <string name="voice_unlock_noisy">बहुत शोर है इसलिए आपको स्पष्ट रूप से नहीं सुन सकते।</string>
+    <string name="voice_unlock_weak">आपकी आवाज़ नहीं सुन सकते।</string>
+    <string name="voice_unlock_media_playing">मीडिया चलने के दौरान वॉयस अनलॉक अक्षम होता है।</string>
+    <string name="voiceunlock_multiple_failures">ध्वनि अनलॉक करने का प्रयास अधिकतम सीमा से अधिक हुआ</string>
+    <string name="dm_prompt">टर्मिनल पहले से ही लॉक है</string>
+    <string name="sd_accessing_swtich_user_title">उपयोगकर्ता बदलें?</string>
+    <string name="sd_accessing_swtich_user_message">स्वामी खाते का सभी अरक्षित डेटा गुम या क्षतिग्रस्त हो जाएगा।</string>
+    <string name="keyguard_password_enter_pin_code">पिन कोड लिखें</string>
+    <string name="keyguard_password_enter_puk_code">सिम PUK और नया PIN कोड लिखें</string>
+    <string name="keyguard_password_enter_puk_prompt">सिम PUK कोड</string>
+    <string name="keyguard_password_enter_pin_prompt">नया सिम PIN कोड</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">पासवर्ड लिखने के लिए स्पर्श करें</font></string>
+    <string name="keyguard_password_enter_password_code">अनलॉक करने के लिए पासवर्ड लिखें</string>
+    <string name="keyguard_password_enter_pin_password_code">अनलॉक करने के लिए पिन लिखें</string>
+    <string name="keyguard_password_wrong_pin_code">गलत PIN कोड.</string>
+    <string name="keyguard_label_text">अनलॉक करने के लिए, मेनू दबाएं और फिर 0 दबाएं.</string>
+    <string name="faceunlock_multiple_failures">फेस अनलॉक के अधिकतम प्रयासों की सीमा पार हो गई</string>
+    <string name="keyguard_charged">चार्ज हो गई</string>
+    <string name="keyguard_plugged_in">चार्ज हो रही है, %d%%</string>
+    <string name="keyguard_low_battery">अपना चार्जर कनेक्‍ट करें.</string>
+    <string name="keyguard_instructions_when_pattern_disabled">अनलॉक करने के लिए मेनू दबाएं.</string>
+    <string name="keyguard_network_locked_message">नेटवर्क लॉक किया गया</string>
+    <string name="keyguard_missing_sim_message_short">कोई SIM कार्ड नहीं है</string>
+    <string name="keyguard_missing_sim_message">फ़ोन में कोई SIM कार्ड नहीं है.</string>
+    <string name="keyguard_missing_sim_instructions">SIM कार्ड डालें.</string>
+    <string name="keyguard_missing_sim_instructions_long">SIM कार्ड गुम है या पढ़ने योग्‍य नहीं है. SIM कार्ड डालें.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">अनुपयोगी SIM कार्ड.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"आपका SIM कार्ड स्‍थायी रूप से अक्षम कर दिया गया है.
+ दूसरे SIM कार्ड के लिए अपने वायरलेस सेवा प्रदाता से संपर्क करें."</string>
+    <string name="keyguard_sim_locked_message">सिम कार्ड लॉक है.</string>
+    <string name="keyguard_sim_puk_locked_message">SIM कार्ड PUK द्वारा लॉक किया हुआ है.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">SIM कार्ड अनलॉक कर रहा है…</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. %3$d विजेट में से %2$d.</string>
+    <string name="keyguard_accessibility_add_widget">विजेट जोड़ें</string>
+    <string name="keyguard_accessibility_widget_empty_slot">रिक्त</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">अनलॉक क्षेत्र को विस्तृत कर दिया गया.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">अनलॉक क्षेत्र को संक्षिप्त कर दिया गया.</string>
+    <string name="keyguard_accessibility_widget">%1$s विजेट.</string>
+    <string name="keyguard_accessibility_user_selector">उपयोगकर्ता चयनकर्ता</string>
+    <string name="keyguard_accessibility_status">स्थिति</string>
+    <string name="keyguard_accessibility_camera">कैमरा</string>
+    <string name="keygaurd_accessibility_media_controls">मीडिया नियंत्रण</string>
+    <string name="keyguard_accessibility_widget_reorder_start">विजेट पुनः क्रमित करना प्रारंभ.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">विजेट पुनः क्रमित करना समाप्त.</string>
+    <string name="keyguard_accessibility_widget_deleted">विजेट %1$s को हटा दिया गया.</string>
+    <string name="keyguard_accessibility_expand_lock_area">अनलॉक क्षेत्र विस्तृत करें.</string>
+    <string name="keyguard_accessibility_slide_unlock">स्लाइड अनलॉक.</string>
+    <string name="keyguard_accessibility_pattern_unlock">आकार अनलॉक.</string>
+    <string name="keyguard_accessibility_face_unlock">फेस अनलॉक.</string>
+    <string name="keyguard_accessibility_pin_unlock">पिन अनलॉक.</string>
+    <string name="keyguard_accessibility_password_unlock">पासवर्ड अनलॉक.</string>
+    <string name="keyguard_accessibility_pattern_area">आकार क्षेत्र.</string>
+    <string name="keyguard_accessibility_slide_area">स्लाइड क्षेत्र.</string>
+    <string name="keyguard_accessibility_transport_prev_description">पिछला ट्रैक बटन</string>
+    <string name="keyguard_accessibility_transport_next_description">अगला ट्रैक बटन</string>
+    <string name="keyguard_accessibility_transport_pause_description">पॉज़ करें बटन</string>
+    <string name="keyguard_accessibility_transport_play_description">चलाएं बटन</string>
+    <string name="keyguard_accessibility_transport_stop_description">रोकें बटन</string>
+    <string name="keyguard_accessibility_transport_thumbs_up_description">पसंद</string>
+    <string name="keyguard_accessibility_transport_thumbs_down_description">नापसंद</string>
+    <string name="keyguard_accessibility_transport_heart_description">दिल</string>
+    <string name="keyguard_accessibility_show_bouncer">जारी रखने के लिए अनलॉक करें</string>
+    <string name="keyguard_accessibility_hide_bouncer">लॉन्‍च रद्द कर दिया गया</string>
+    <string name="keyguard_accessibility_delete_widget_start">हटाने के लिए %1$s खींचें.</string>
+    <string name="keyguard_accessibility_delete_widget_end">%1$s को नहीं हटाया जाएगा.</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
+    <string name="password_keyboard_label_alt_key">Alt</string>
+    <string name="keyboardview_keycode_alt">Alt</string>
+    <string name="keyboardview_keycode_cancel">रद्द करें</string>
+    <string name="keyboardview_keycode_delete">हटाएं</string>
+    <string name="keyboardview_keycode_done">पूर्ण</string>
+    <string name="keyboardview_keycode_mode_change">Mode change</string>
+    <string name="keyboardview_keycode_shift">Shift</string>
+    <string name="keyboardview_keycode_enter">Enter</string>
+    <string name="description_target_unlock">अनलॉक करें</string>
+    <string name="description_target_camera">कैमरा</string>
+    <string name="description_target_silent">मौन</string>
+    <string name="description_target_soundon">ध्‍वनि चालू करें</string>
+    <string name="description_target_search">खोजें</string>
+    <string name="description_direction_up">%s के लिए ऊपर स्‍लाइड करें.</string>
+    <string name="description_direction_down">%s के लिए नीचे स्‍लाइड करें.</string>
+    <string name="description_direction_left">%s के लिए बाएं स्‍लाइड करें.</string>
+    <string name="description_direction_right">%s के लिए दाएं स्‍लाइड करें.</string>
+    <string name="user_switched">वर्तमान उपयोगकर्ता %1$s.</string>
+    <string name="kg_emergency_call_label">आपातकालीन कॉल</string>
+    <string name="kg_forgot_pattern_button_text">आकार भूल गए</string>
+    <string name="kg_wrong_pattern">गलत आकार</string>
+    <string name="kg_wrong_password">गलत पासवर्ड</string>
+    <string name="kg_wrong_pin">गलत PIN</string>
+    <string name="kg_too_many_failed_attempts_countdown">%d सेकंड में पुन: प्रयास करें.</string>
+    <string name="kg_pattern_instructions">अपना आकार आरेखित करें</string>
+    <string name="kg_sim_pin_instructions">सिम PIN डालें</string>
+    <string name="kg_pin_instructions">PIN डालें</string>
+    <string name="kg_password_instructions">पासवर्ड डालें</string>
+    <string name="kg_puk_enter_puk_hint">सिम अब अक्षम हो गई है. जारी रखने के लिए PUK कोड डालें. विवरण के लिए कैरियर से संपर्क करें.</string>
+    <string name="kg_puk_enter_pin_hint">इच्छित पिन कोड डालें</string>
+    <string name="kg_enter_confirm_pin_hint">इच्छित पिन कोड की पुष्टि करें</string>
+    <string name="kg_sim_unlock_progress_dialog_message">SIM कार्ड अनलॉक कर रहा है…</string>
+    <string name="kg_invalid_sim_pin_hint">ऐसा PIN लिखें, जो 4 से 8 अंकों का हो.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK कोड 8 या अधिक संख्या वाला होना चाहिए.</string>
+    <string name="kg_invalid_puk">सही PUK कोड पुन: डालें. बार-बार प्रयास करने से सिम स्थायी रूप से अक्षम हो जाएगी.</string>
+    <string name="kg_invalid_confirm_pin_hint">पिन कोड का मिलान नहीं होता</string>
+    <string name="kg_login_too_many_attempts">बहुत अधिक आकार प्रयास</string>
+    <string name="kg_login_instructions">अनलॉक करने के लिए, अपने Google खाते से प्रवेश करें.</string>
+    <string name="kg_login_username_hint">उपयोगकर्ता नाम (ईमेल)</string>
+    <string name="kg_login_password_hint">पासवर्ड</string>
+    <string name="kg_login_submit_button">प्रवेश करें</string>
+    <string name="kg_login_invalid_input">अमान्य उपयोगकर्ता नाम या पासवर्ड.</string>
+    <string name="kg_login_account_recovery_hint">"अपना उपयोगकर्ता नाम या पासवर्ड भूल गए?
+ "<b>google.com/accounts/recovery</b> पर जाएं.</string>
+    <string name="kg_login_checking_password">खाते की जांच की जा रही है…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"आप अपना PIN %d बार गलत तरीके से लिख चुके हैं. 
+
+ %d सेकंड में पुन: प्रयास करें."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"आप अपना पासवर्ड %d बार गलत तरीके से लिख चुके हैं. 
+
+ %d सेकंड में पुन: प्रयास करें."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"आपने अपना अनलॉक आकार %d बार गलत तरीके से आरेखित किया है. 
+
+ %d सेकंड में पुन: प्रयास करें."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">आप फ़ोन को अनलॉक करने के लिए %d बार गलत तरीके से प्रयास कर चुके हैं. %d और असफल प्रयासों के बाद, फ़ोन फ़ैक्टरी डिफ़ॉल्ट पर रीसेट हो जाएगा और सभी उपयोगकर्ता डेटा खो जाएगा.</string>
+    <string name="kg_failed_attempts_now_wiping">आप फ़ोन को अनलॉक करने के लिए %d बार गलत तरीके से प्रयास कर चुके हैं. फ़ोन अब फ़ैक्टरी डिफ़ॉल्ट पर रीसेट हो जाएगा.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"आपने अपने अनलॉक आकार को %d बार गलत तरीके से आरेखित किया है. %d और असफल प्रयासों के बाद, आपसे अपने फ़ोन को किसी ईमेल खाते का उपयोग करके अनलॉक करने के लिए कहा जाएगा.
+
+ %d सेकंड में पुन: प्रयास करें."</string>
+    <string name="kg_text_message_separator">" — "</string>
+    <string name="kg_reordering_delete_drop_target_text">निकालें</string>
+    <string name="kg_password_wrong_pin_code_pukked">गलत सिम PIN कोड अपने उपकरण को अनलॉक करने के लिए अब आपको अपने वाहक से संपर्क करना होगा.</string>
+    <string name="kg_password_wrong_puk_code_dead">सिम अनुपयोगी है. अपने वाहक से संपर्क करें.</string>
+    <string name="kg_password_pin_failed">सिम PIN की कार्यवाही विफल रही!</string>
+    <string name="kg_password_puk_failed">सिम PUK की कार्यवाही विफल रही!</string>
+    <string name="kg_pin_accepted">कोड स्वीकार किया गया!</string>
+    <string name="keyguard_transport_prev_description">पिछला ट्रैक बटन</string>
+    <string name="keyguard_transport_next_description">अगला ट्रैक बटन</string>
+    <string name="keyguard_transport_pause_description">पॉज़ करें बटन</string>
+    <string name="keyguard_transport_play_description">चलाएं बटन</string>
+    <string name="keyguard_transport_stop_description">रोकें बटन</string>
+    <string name="keyguard_carrier_default">कोई सेवा नहीं.</string>
+    <string name="app_name">KeyguardTestActivity</string>
+    <string name="secure_app_name">UnifiedCamera</string>
+    <string name="none_menu_item">कोई सुरक्षा नहीं</string>
+    <string name="pin_menu_item">PIN</string>
+    <string name="password_menu_item">पासवर्ड</string>
+    <string name="pattern_menu_item">प्रतिमान</string>
+    <string name="sim_pin_menu_item">SIM पिन</string>
+    <string name="sim_puk_menu_item">SIM PUK</string>
+    <string name="add_widget_item">विजेट चुनें...</string>
+    <string name="on_screen_turned_off">onScreenTurnedOff</string>
+    <string name="on_screen_turned_on">onScreenTurnedOn</string>
+    <string name="do_keyguard">doKeyguard</string>
+    <string name="verify_unlock">verifyUnlock</string>
+</resources>

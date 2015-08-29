@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Επιλέχθηκαν %1$d στοιχεία</item>
+        <item quantity="zero">Επιλέχθηκε %1$d στοιχείο</item>
+        <item quantity="one">Επιλέχθηκε %1$d στοιχείο</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">Επιλέχθηκαν %1$d άλμπουμ</item>
+        <item quantity="zero">Επιλέχθηκε %1$d άλμπουμ</item>
+        <item quantity="one">Επιλέχθηκε %1$d άλμπουμ</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">Επιλέχθηκαν %1$d ομάδες</item>
+        <item quantity="zero">Επιλέχθηκε %1$d ομάδα</item>
+        <item quantity="one">Επιλέχθηκε %1$d ομάδα</item>
+    </plurals>
+</resources>

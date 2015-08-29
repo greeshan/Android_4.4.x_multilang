@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>نیٹورک ڈیفالٹ</item>
+        <item>نمبر چھپائيں</item>
+        <item>نمبر دکھائيں</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>عالمی</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>صرف EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA / EvDo آٹو</item>
+        <item>GSM / WCDMA آٹو</item>
+        <item>WCDMA صرف</item>
+        <item>GSM صرف</item>
+        <item>GSM / WCDMA ترجیح</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>انگریزی</item>
+        <item>فرانسیسی</item>
+        <item>ہسپانوی</item>
+        <item>جاپانی</item>
+        <item>کورین</item>
+        <item>چینی</item>
+        <item>عبرانی</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>صرف گھر</item>
+        <item>خودکار</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY آف</item>
+        <item>TTY آلہ</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>عام</item>
+        <item>لمبا</item>
+    </string-array>
+</resources>

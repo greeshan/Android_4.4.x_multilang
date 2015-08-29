@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Permission Control</string>
+    <string name="accept_perm">Разрешить</string>
+    <string name="deny_perm">Deny</string>
+    <string name="notify_check_hint">Do not remind again.</string>
+    <string name="notify_dialog_title">Угроза безопасности</string>
+    <string name="notify_dialog_msg_body" formatted="false">%s is trying to %s.</string>
+    <string name="time_count_down_hint">(Deny automatically after %s seconds.)</string>
+    <string name="notification_control_state_title">Разрешения приложений</string>
+    <string name="notification_control_state_summary">Менеджер разрешений закрыт.</string>
+    <string name="toast_deny_msg_body" formatted="false">%s is denied to %s.</string>
+    <string name="manage_permission_app_label">Разрешения приложений</string>
+    <string name="manage_permission_summary">Управление разрешениями приложений для безопасности и защиты личных данных</string>
+    <string name="permissions_label">Разрешения</string>
+    <string name="apps">Приложения</string>
+    <string name="no_applications">Нет приложений</string>
+    <string name="version_text">version %1$s</string>
+    <string name="app_count_unit_single">приложен</string>
+    <string name="app_count_unit_plural">приложен</string>
+    <string name="perm_count_unit_single">разрешен</string>
+    <string name="perm_count_unit_plural">разрешен</string>
+    <string name="no_app_use_perm">No apps use this permission.</string>
+    <string name="no_perm_is_used">No permissions are used this app.</string>
+    <string name="notify_user_switch_on">Включите эту функцию, чтобы управлять разрешениями приложений.</string>
+    <string name="alert_dlg_title">Turn off protection?</string>
+    <string name="alert_dlg_mgs">Apps will directly get permissions without your confirmation.</string>
+    <string name="foreground_notification_title">App permission management is running</string>
+    <string name="foreground_notification_summary">Touch to view detailed settings for app permissions.</string>
+    <string name="auto_boot_pref_title">Управление автостартом</string>
+    <string name="auto_boot_pref_summary">Разрешить или запретить приложениям запускаться во время загрузки системы</string>
+    <string name="no_auto_boot_app">No auto-start apps.</string>
+</resources>

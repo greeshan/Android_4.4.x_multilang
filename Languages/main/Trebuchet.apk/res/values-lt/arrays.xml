@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_interface_general_icons_text_font_family_entries">
+        <item>Įprastinis</item>
+        <item>Plonas</item>
+        <item>Suglaustas</item>
+    </string-array>
+    <string-array name="transition_effect_entries">
+        <item>Joks</item>
+        <item>Padidinti</item>
+        <item>Tolinti</item>
+        <item>Pasukti aukštyn</item>
+        <item>Pasukti žemyn</item>
+        <item>Kubo vidus</item>
+        <item>Kubo išorė</item>
+        <item>Krūva</item>
+        <item>Akordeonas</item>
+        <item>Apversti</item>
+        <item>Cilindro vidus</item>
+        <item>Cilindro išorė</item>
+        <item>Karuselė</item>
+        <item>Apžvalga</item>
+    </string-array>
+</resources>

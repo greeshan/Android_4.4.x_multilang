@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ulubione klipy wideo</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Anuluj</string>
+    <string name="delete_dialog_title">Usuń ulubione</string>
+    <string name="delete_dialog_prompt">Usunąć pozycję %1$s z widżetu?</string>
+    <string name="transcoding_prompt">Konwertowanie wideo</string>
+    <string name="toast_video_add_cancelled">Nie można dodać klipu wideo</string>
+    <string name="toast_video_unsupported_resolution">Rozdzielczość wideo nie jest obsługiwana.</string>
+    <string name="toast_low_storage">Karta SD jest zapełniona.</string>
+    <string name="toast_invalid_video">Nieobsługiwany format wideo.</string>
+</resources>

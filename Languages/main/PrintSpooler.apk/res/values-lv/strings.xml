@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Print Spooler</string>
+    <string name="advanced_settings_button">Printera iestatījumi</string>
+    <string name="print_button">Drukāt</string>
+    <string name="save_button">Saglabāt</string>
+    <string name="label_destination">Galamērķis</string>
+    <string name="label_copies">Eksemplāri</string>
+    <string name="label_paper_size">Papīra izmērs</string>
+    <string name="label_color">Krāsa</string>
+    <string name="label_orientation">Virziens</string>
+    <string name="label_pages">Lapas (%1$s)</string>
+    <string name="pages_range_example">piem., 1–5,8,11–13</string>
+    <string name="print_preview">Drukas priekšskatījums</string>
+    <string name="install_for_print_preview">Instalēt PDF skatītāju priekšskatīšanai</string>
+    <string name="printing_app_crashed">Drukas lietotne avarēja</string>
+    <string name="page_count_unknown">Lapas</string>
+    <string name="generating_print_job">Ģenerē drukas darbu…</string>
+    <string name="save_as_pdf">Saglabāt kā PDF</string>
+    <string name="all_printers">Visi printeri…</string>
+    <string name="print_dialog">Drukāšanas dialoglodziņš</string>
+    <string name="search">Meklēt</string>
+    <string name="all_printers_label">Visi printeri</string>
+    <string name="add_print_service_label">Pievienot pakalpojumu</string>
+    <string name="print_search_box_shown_utterance">Meklēšanas lodziņš ir redzams.</string>
+    <string name="print_search_box_hidden_utterance">Meklēšanas lodziņš ir paslēpts.</string>
+    <string name="print_add_printer">Pievienot printeri</string>
+    <string name="print_select_printer">Atlasīt printeri</string>
+    <string name="print_forget_printer">Neatcerēties printeri</string>
+    <string name="choose_print_service">Izvēlieties drukāšanas pakalpojumu</string>
+    <string name="print_searching_for_printers">Printeru meklēšana</string>
+    <string name="print_no_printers">Netika atrasts neviens printeris.</string>
+    <string name="printing_notification_title_template">Notiek darba %1$s drukāšana…</string>
+    <string name="cancelling_notification_title_template">Pārtrauc drukas darbu %1$s…</string>
+    <string name="failed_notification_title_template">Printera kļūda ar darbu %1$s</string>
+    <string name="blocked_notification_title_template">Printeris bloķēja darbu %1$s</string>
+    <string name="cancel">Atcelt</string>
+    <string name="restart">Restartēt</string>
+    <string name="no_connection_to_printer">Nav savienojuma ar printeri</string>
+    <string name="reason_unknown">nezināms</string>
+    <string name="printer_unavailable">%1$s — nav pieejams</string>
+    <string name="print_error_default_message">Nevarēja ģenerēt drukas darbu</string>
+</resources>

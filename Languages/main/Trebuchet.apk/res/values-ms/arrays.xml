@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_interface_general_icons_text_font_family_entries">
+        <item>Biasa</item>
+        <item>Nipis</item>
+        <item>Tebal</item>
+    </string-array>
+</resources>
